@@ -1,0 +1,601 @@
+Flight_ID,Flight_Date,Airline,Aircraft_ID,Aircraft_Type,Route,Flight_Duration_Mins,Planned_Fuel_KG,Actual_Fuel_KG,Fuel_Variance_KG,Fuel_Variance_Pct,Cost_Variance_USD,Cost_Variance_NGN,Anomaly_Level,Likely_Cause
+NG2000,2025-03-04,Air Peace,5N-BWE,B737-800,Lagos-Enugu,50,2000.0,2080.2,80.2,4.01,108.25,178617.73,Normal,Within Normal Range
+NG2001,2025-01-09,Overland Airways,5N-BWG,B737-800,Lagos-Enugu,50,2000.0,2381.2,381.2,19.06,514.66,849197.17,Severe,Excess Taxi Time
+NG2002,2025-04-25,Ibom Air,5N-BWD,CRJ900,Abuja-Port Harcourt,60,1100.0,1155.7,55.7,5.07,75.22,124110.67,Normal,Suboptimal Routing
+NG2003,2025-03-13,Ibom Air,5N-BWF,CRJ900,Abuja-Enugu,45,825.0,986.3,161.3,19.56,217.81,359389.05,Moderate,Weather Diversion
+NG2004,2025-04-02,Air Peace,5N-BWB,CRJ900,Lagos-Abuja,55,1008.3,1020.5,12.1,1.2,16.37,27016.07,Normal,Within Normal Range
+NG2005,2025-04-07,Air Peace,5N-BWB,CRJ900,Abuja-Enugu,45,825.0,990.8,165.8,20.1,223.83,369325.56,Severe,Weather Diversion
+NG2006,2025-06-19,Ibom Air,5N-BWA,B737-800,Abuja-Port Harcourt,60,2400.0,2454.6,54.6,2.28,73.75,121681.79,Normal,Within Normal Range
+NG2007,2025-03-13,Ibom Air,5N-BWG,B737-800,Lagos-Abuja,55,2200.0,2315.3,115.3,5.24,155.71,256915.39,Normal,Extra APU Usage
+NG2008,2025-06-29,Dana Air,5N-BWE,A320,Abuja-Kano,50,1916.7,1938.8,22.1,1.16,29.9,49333.56,Normal,Within Normal Range
+NG2009,2025-04-29,Ibom Air,5N-BWC,A320,Abuja-Port Harcourt,60,2300.0,2435.9,135.9,5.91,183.41,302627.75,Normal,Extra APU Usage
+NG2010,2025-01-09,Dana Air,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,1983.3,-16.7,-0.83,-22.5,-37126.7,Normal,Within Normal Range
+NG2011,2025-06-17,Ibom Air,5N-BWD,Q400,Lagos-Abuja,55,825.0,847.5,22.5,2.72,30.32,50033.16,Normal,Within Normal Range
+NG2012,2025-02-05,United Nigeria,5N-BWE,A320,Lagos-Enugu,50,1916.7,1955.4,38.7,2.02,52.3,86290.82,Normal,Within Normal Range
+NG2013,2025-04-03,Overland Airways,5N-BWG,CRJ900,Abuja-Kano,50,916.7,910.7,-6.0,-0.66,-8.11,-13377.94,Normal,Within Normal Range
+NG2014,2025-01-29,United Nigeria,5N-BWA,B737-800,Abuja-Port Harcourt,60,2400.0,2480.8,80.8,3.37,109.05,179924.93,Moderate,Within Normal Range
+NG2015,2025-04-08,United Nigeria,5N-BWG,B737-800,Lagos-Enugu,50,2000.0,1989.6,-10.4,-0.52,-14.06,-23199.32,Normal,Within Normal Range
+NG2016,2025-06-24,Overland Airways,5N-BWB,B737-800,Abuja-Kano,50,2000.0,2014.6,14.6,0.73,19.66,32439.19,Normal,Within Normal Range
+NG2017,2025-04-22,Dana Air,5N-BWE,B737-800,Abuja-Enugu,45,1800.0,1904.7,104.7,5.82,141.38,233275.58,Moderate,Ground Delay
+NG2018,2025-06-13,Ibom Air,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2325.3,-74.7,-3.11,-100.8,-166327.76,Normal,Within Normal Range
+NG2019,2025-05-06,Ibom Air,5N-BWF,B737-800,Abuja-Kano,50,2000.0,2608.1,608.1,30.4,820.92,1354511.07,Severe,Weather Diversion
+NG2020,2025-01-22,Air Peace,5N-BWB,A320,Lagos-Port Harcourt,45,1725.0,1847.4,122.4,7.1,165.26,272687.11,Normal,Extra APU Usage
+NG2021,2025-05-16,United Nigeria,5N-BWE,A320,Lagos-Port Harcourt,45,1725.0,1722.2,-2.8,-0.16,-3.83,-6325.14,Normal,Within Normal Range
+NG2022,2025-04-13,Overland Airways,5N-BWE,A320,Lagos-Port Harcourt,45,1725.0,1765.8,40.8,2.36,55.04,90813.74,Normal,Within Normal Range
+NG2023,2025-03-05,Overland Airways,5N-BWB,CRJ900,Lagos-Kano,90,1650.0,1606.7,-43.3,-2.63,-58.51,-96541.87,Normal,Within Normal Range
+NG2024,2025-01-02,Overland Airways,5N-BWD,A320,Abuja-Port Harcourt,60,2300.0,2912.4,612.4,26.63,826.8,1364217.42,Severe,Non-Optimal Altitude
+NG2025,2025-05-12,Air Peace,5N-BWB,Q400,Lagos-Abuja,55,825.0,847.1,22.1,2.67,29.79,49149.06,Normal,Within Normal Range
+NG2026,2025-03-04,Overland Airways,5N-BWH,A320,Lagos-Port Harcourt,45,1725.0,1736.3,11.3,0.66,15.31,25266.21,Normal,Within Normal Range
+NG2027,2025-04-01,Air Peace,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,1830.2,30.2,1.68,40.71,67176.86,Normal,Within Normal Range
+NG2028,2025-04-14,Air Peace,5N-BWA,B737-800,Lagos-Enugu,50,2000.0,2041.1,41.1,2.05,55.44,91474.65,Normal,Within Normal Range
+NG2029,2025-05-18,Ibom Air,5N-BWD,A320,Lagos-Abuja,55,2108.3,2104.0,-4.3,-0.21,-5.86,-9675.74,Normal,Within Normal Range
+NG2030,2025-04-24,United Nigeria,5N-BWB,A320,Abuja-Kano,50,1916.7,1965.1,48.5,2.53,65.44,107981.58,Normal,Within Normal Range
+NG2031,2025-03-02,Air Peace,5N-BWB,B737-800,Lagos-Abuja,55,2200.0,2500.2,300.2,13.65,405.26,668681.17,Moderate,Extra APU Usage
+NG2032,2025-04-08,United Nigeria,5N-BWC,B737-800,Abuja-Enugu,45,1800.0,2209.9,409.9,22.77,553.43,913151.28,Severe,ATC Holding Pattern
+NG2033,2025-02-18,United Nigeria,5N-BWC,CRJ900,Abuja-Kano,50,916.7,931.6,15.0,1.63,20.22,33369.05,Normal,Within Normal Range
+NG2034,2025-01-15,Overland Airways,5N-BWF,B737-800,Abuja-Port Harcourt,60,2400.0,3025.9,625.9,26.08,844.93,1394132.13,Severe,Non-Optimal Altitude
+NG2035,2025-01-18,Overland Airways,5N-BWC,B737-800,Lagos-Abuja,55,2200.0,2197.9,-2.1,-0.1,-2.84,-4678.99,Normal,Within Normal Range
+NG2036,2025-05-29,United Nigeria,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,1844.6,44.6,2.48,60.2,99323.78,Normal,Within Normal Range
+NG2037,2025-02-22,Overland Airways,5N-BWE,Q400,Lagos-Kano,90,1350.0,1296.4,-53.6,-3.97,-72.36,-119394.5,Normal,Within Normal Range
+NG2038,2025-04-28,United Nigeria,5N-BWE,A320,Abuja-Kano,50,1916.7,1918.7,2.0,0.1,2.7,4459.62,Normal,Within Normal Range
+NG2039,2025-01-19,Air Peace,5N-BWB,CRJ900,Lagos-Abuja,55,1008.3,1024.2,15.9,1.57,21.43,35357.74,Normal,Within Normal Range
+NG2040,2025-04-05,Dana Air,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,1842.3,42.3,2.35,57.14,94289.13,Normal,Within Normal Range
+NG2041,2025-06-19,Dana Air,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2738.5,338.5,14.1,456.92,753924.2,Moderate,Ground Delay
+NG2042,2025-03-14,Air Peace,5N-BWE,A320,Lagos-Abuja,55,2108.3,2161.3,52.9,2.51,71.46,117901.64,Normal,Within Normal Range
+NG2043,2025-01-14,Dana Air,5N-BWE,CRJ900,Lagos-Port Harcourt,45,825.0,893.1,68.1,8.25,91.89,151615.24,Moderate,Ground Delay
+NG2044,2025-06-13,Air Peace,5N-BWC,Q400,Lagos-Abuja,55,825.0,775.4,-49.6,-6.01,-66.92,-110417.44,Normal,Within Normal Range
+NG2045,2025-01-29,Overland Airways,5N-BWA,CRJ900,Lagos-Kano,90,1650.0,2169.5,519.5,31.48,701.31,1157162.45,Severe,Non-Optimal Altitude
+NG2046,2025-04-21,Air Peace,5N-BWC,Q400,Abuja-Port Harcourt,60,900.0,961.7,61.7,6.85,83.28,137409.84,Moderate,Suboptimal Routing
+NG2047,2025-04-01,Ibom Air,5N-BWB,A320,Abuja-Kano,50,1916.7,2039.1,122.5,6.39,165.33,272794.03,Normal,Minor ATC Delay
+NG2048,2025-02-15,Ibom Air,5N-BWC,A320,Abuja-Port Harcourt,60,2300.0,2250.0,-50.0,-2.17,-67.51,-111391.35,Normal,Within Normal Range
+NG2049,2025-03-10,Dana Air,5N-BWD,CRJ900,Lagos-Enugu,50,916.7,979.2,62.5,6.82,84.4,139252.35,Moderate,Minor ATC Delay
+NG2050,2025-02-21,Air Peace,5N-BWD,CRJ900,Abuja-Enugu,45,825.0,839.4,14.4,1.74,19.41,32032.08,Normal,Within Normal Range
+NG2051,2025-06-18,Ibom Air,5N-BWA,A320,Abuja-Kano,50,1916.7,2059.2,142.6,7.44,192.48,317589.71,Moderate,Suboptimal Routing
+NG2052,2025-06-23,Dana Air,5N-BWG,Q400,Abuja-Enugu,45,675.0,667.5,-7.5,-1.12,-10.18,-16796.42,Normal,Within Normal Range
+NG2053,2025-05-29,Air Peace,5N-BWC,Q400,Lagos-Abuja,55,825.0,832.5,7.5,0.9,10.06,16597.13,Normal,Within Normal Range
+NG2054,2025-03-22,Overland Airways,5N-BWF,CRJ900,Lagos-Abuja,55,1008.3,1085.3,77.0,7.63,103.93,171477.43,Normal,Suboptimal Routing
+NG2055,2025-01-12,Overland Airways,5N-BWE,A320,Lagos-Kano,90,3450.0,3386.1,-63.9,-1.85,-86.29,-142380.56,Normal,Within Normal Range
+NG2056,2025-04-21,Overland Airways,5N-BWF,A320,Abuja-Enugu,45,1725.0,2177.7,452.7,26.24,611.1,1008310.99,Severe,Weather Diversion
+NG2057,2025-05-10,Dana Air,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2392.5,-7.5,-0.31,-10.13,-16713.2,Normal,Within Normal Range
+NG2058,2025-04-18,Dana Air,5N-BWD,A320,Lagos-Kano,90,3450.0,3465.1,15.1,0.44,20.33,33539.83,Normal,Within Normal Range
+NG2059,2025-05-21,Ibom Air,5N-BWG,Q400,Lagos-Enugu,50,750.0,769.1,19.1,2.55,25.85,42646.78,Normal,Within Normal Range
+NG2060,2025-04-24,United Nigeria,5N-BWH,Q400,Lagos-Port Harcourt,45,675.0,654.8,-20.2,-2.99,-27.28,-45018.46,Normal,Within Normal Range
+NG2061,2025-05-12,Ibom Air,5N-BWE,B737-800,Lagos-Kano,90,3600.0,3662.0,62.0,1.72,83.69,138088.2,Normal,Within Normal Range
+NG2062,2025-02-20,Ibom Air,5N-BWD,Q400,Lagos-Abuja,55,825.0,843.5,18.5,2.24,24.99,41232.34,Moderate,Within Normal Range
+NG2063,2025-04-17,Overland Airways,5N-BWH,B737-800,Lagos-Kano,90,3600.0,3604.0,4.0,0.11,5.35,8829.63,Normal,Within Normal Range
+NG2064,2025-03-04,United Nigeria,5N-BWG,CRJ900,Lagos-Enugu,50,916.7,1047.5,130.8,14.27,176.58,291364.99,Moderate,Suboptimal Routing
+NG2065,2025-06-28,United Nigeria,5N-BWC,A320,Abuja-Enugu,45,1725.0,1737.1,12.1,0.7,16.39,27046.79,Normal,Within Normal Range
+NG2066,2025-04-29,Air Peace,5N-BWC,CRJ900,Lagos-Port Harcourt,45,825.0,863.5,38.5,4.67,51.98,85773.52,Normal,Within Normal Range
+NG2067,2025-05-21,Dana Air,5N-BWG,CRJ900,Abuja-Port Harcourt,60,1100.0,1108.1,8.1,0.74,10.94,18045.61,Normal,Within Normal Range
+NG2068,2025-03-05,United Nigeria,5N-BWE,CRJ900,Abuja-Enugu,45,825.0,828.3,3.3,0.4,4.48,7388.0,Normal,Within Normal Range
+NG2069,2025-03-12,Overland Airways,5N-BWD,CRJ900,Abuja-Enugu,45,825.0,829.9,4.9,0.6,6.65,10972.06,Normal,Within Normal Range
+NG2070,2025-05-19,Dana Air,5N-BWF,Q400,Lagos-Port Harcourt,45,675.0,727.6,52.6,7.79,71.02,117176.67,Moderate,Minor ATC Delay
+NG2071,2025-04-17,Ibom Air,5N-BWB,A320,Lagos-Enugu,50,1916.7,2007.0,90.3,4.71,121.9,201138.6,Normal,Within Normal Range
+NG2072,2025-04-10,Air Peace,5N-BWG,A320,Lagos-Kano,90,3450.0,3506.2,56.2,1.63,75.87,125188.23,Normal,Within Normal Range
+NG2073,2025-01-02,Air Peace,5N-BWH,CRJ900,Lagos-Enugu,50,916.7,953.3,36.6,4.0,49.47,81623.71,Normal,Within Normal Range
+NG2074,2025-02-26,United Nigeria,5N-BWH,A320,Lagos-Kano,90,3450.0,3370.5,-79.5,-2.3,-107.31,-177068.66,Normal,Within Normal Range
+NG2075,2025-04-30,Dana Air,5N-BWC,CRJ900,Lagos-Kano,90,1650.0,1752.1,102.1,6.19,137.9,227531.7,Normal,Suboptimal Routing
+NG2076,2025-06-14,Overland Airways,5N-BWB,B737-800,Lagos-Kano,90,3600.0,3745.6,145.6,4.04,196.52,324257.86,Normal,Within Normal Range
+NG2077,2025-03-25,Air Peace,5N-BWG,Q400,Lagos-Port Harcourt,45,675.0,665.2,-9.8,-1.45,-13.2,-21777.16,Normal,Within Normal Range
+NG2078,2025-03-06,United Nigeria,5N-BWG,Q400,Abuja-Enugu,45,675.0,682.3,7.3,1.09,9.92,16369.51,Normal,Within Normal Range
+NG2079,2025-02-27,Overland Airways,5N-BWF,B737-800,Lagos-Enugu,50,2000.0,1975.6,-24.4,-1.22,-33.0,-54447.48,Normal,Within Normal Range
+NG2080,2025-02-21,Air Peace,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,2029.5,29.5,1.48,39.86,65774.67,Normal,Within Normal Range
+NG2081,2025-05-25,Ibom Air,5N-BWB,CRJ900,Lagos-Port Harcourt,45,825.0,840.6,15.6,1.89,21.04,34713.99,Normal,Within Normal Range
+NG2082,2025-02-11,Dana Air,5N-BWB,A320,Abuja-Kano,50,1916.7,1937.8,21.1,1.1,28.55,47104.26,Normal,Within Normal Range
+NG2083,2025-02-20,Dana Air,5N-BWG,CRJ900,Lagos-Abuja,55,1008.3,1284.9,276.5,27.42,373.32,615971.94,Severe,Non-Optimal Altitude
+NG2084,2025-03-30,Dana Air,5N-BWA,B737-800,Lagos-Abuja,55,2200.0,2214.0,14.0,0.64,18.96,31286.45,Normal,Within Normal Range
+NG2085,2025-04-18,Overland Airways,5N-BWA,Q400,Lagos-Abuja,55,825.0,795.2,-29.8,-3.62,-40.27,-66438.76,Normal,Within Normal Range
+NG2086,2025-02-15,United Nigeria,5N-BWG,A320,Abuja-Kano,50,1916.7,2045.7,129.0,6.73,174.13,287316.75,Normal,Ground Delay
+NG2087,2025-04-22,Overland Airways,5N-BWH,CRJ900,Abuja-Port Harcourt,60,1100.0,1128.0,28.0,2.55,37.82,62401.29,Normal,Within Normal Range
+NG2088,2025-04-26,Ibom Air,5N-BWE,B737-800,Abuja-Kano,50,2000.0,1990.5,-9.5,-0.47,-12.81,-21129.74,Normal,Within Normal Range
+NG2089,2025-05-07,United Nigeria,5N-BWA,Q400,Abuja-Port Harcourt,60,900.0,898.4,-1.6,-0.18,-2.15,-3539.75,Normal,Within Normal Range
+NG2090,2025-03-13,Dana Air,5N-BWF,Q400,Lagos-Port Harcourt,45,675.0,694.9,19.9,2.95,26.92,44424.78,Normal,Within Normal Range
+NG2091,2025-01-22,Overland Airways,5N-BWD,B737-800,Abuja-Kano,50,2000.0,2048.6,48.6,2.43,65.63,108295.54,Normal,Within Normal Range
+NG2092,2025-04-25,Ibom Air,5N-BWH,CRJ900,Abuja-Port Harcourt,60,1100.0,1056.2,-43.8,-3.98,-59.09,-97490.41,Normal,Within Normal Range
+NG2093,2025-06-19,United Nigeria,5N-BWE,A320,Lagos-Port Harcourt,45,1725.0,1724.8,-0.2,-0.01,-0.27,-449.65,Normal,Within Normal Range
+NG2094,2025-04-01,Dana Air,5N-BWF,CRJ900,Abuja-Port Harcourt,60,1100.0,1080.3,-19.7,-1.8,-26.66,-43984.83,Normal,Within Normal Range
+NG2095,2025-03-22,Ibom Air,5N-BWD,B737-800,Abuja-Kano,50,2000.0,2141.3,141.3,7.07,190.77,314778.32,Moderate,Extra APU Usage
+NG2096,2025-05-31,Ibom Air,5N-BWE,CRJ900,Lagos-Port Harcourt,45,825.0,842.9,17.9,2.17,24.13,39808.28,Normal,Within Normal Range
+NG2097,2025-02-28,Air Peace,5N-BWE,A320,Abuja-Kano,50,1916.7,1916.5,-0.2,-0.01,-0.25,-418.73,Normal,Within Normal Range
+NG2098,2025-01-12,Overland Airways,5N-BWE,A320,Lagos-Enugu,50,1916.7,1944.2,27.6,1.44,37.21,61396.89,Normal,Within Normal Range
+NG2099,2025-01-04,Ibom Air,5N-BWB,CRJ900,Lagos-Enugu,50,916.7,917.3,0.6,0.06,0.79,1311.08,Normal,Within Normal Range
+NG2100,2025-03-06,Dana Air,5N-BWA,A320,Lagos-Kano,90,3450.0,3418.9,-31.1,-0.9,-41.97,-69258.13,Normal,Within Normal Range
+NG2101,2025-01-19,Air Peace,5N-BWH,CRJ900,Abuja-Enugu,45,825.0,834.2,9.2,1.11,12.42,20489.31,Normal,Within Normal Range
+NG2102,2025-03-05,Ibom Air,5N-BWB,Q400,Lagos-Port Harcourt,45,675.0,752.1,77.1,11.43,104.12,171795.46,Moderate,Extra APU Usage
+NG2103,2025-04-24,Overland Airways,5N-BWH,CRJ900,Abuja-Enugu,45,825.0,817.4,-7.6,-0.92,-10.22,-16859.56,Normal,Within Normal Range
+NG2104,2025-02-23,Dana Air,5N-BWB,B737-800,Lagos-Kano,90,3600.0,3561.0,-39.0,-1.08,-52.7,-86961.09,Normal,Within Normal Range
+NG2105,2025-05-22,Ibom Air,5N-BWC,A320,Lagos-Abuja,55,2108.3,2442.7,334.3,15.86,451.37,744761.06,Severe,ATC Holding Pattern
+NG2106,2025-01-09,Overland Airways,5N-BWE,CRJ900,Lagos-Enugu,50,916.7,991.9,75.3,8.21,101.62,167664.92,Normal,Minor ATC Delay
+NG2107,2025-04-19,Ibom Air,5N-BWD,Q400,Lagos-Abuja,55,825.0,889.0,64.0,7.76,86.38,142530.26,Moderate,Extra APU Usage
+NG2108,2025-02-12,Ibom Air,5N-BWA,B737-800,Abuja-Kano,50,2000.0,2046.8,46.8,2.34,63.18,104239.9,Normal,Within Normal Range
+NG2109,2025-02-01,Overland Airways,5N-BWH,Q400,Abuja-Enugu,45,675.0,669.4,-5.6,-0.83,-7.58,-12509.14,Normal,Within Normal Range
+NG2110,2025-01-21,Dana Air,5N-BWH,CRJ900,Lagos-Kano,90,1650.0,1666.1,16.1,0.98,21.73,35856.06,Normal,Within Normal Range
+NG2111,2025-01-24,Dana Air,5N-BWA,Q400,Lagos-Enugu,50,750.0,767.3,17.3,2.31,23.38,38583.79,Normal,Within Normal Range
+NG2112,2025-05-28,Overland Airways,5N-BWE,B737-800,Abuja-Enugu,45,1800.0,2345.0,545.0,30.28,735.71,1213914.3,Severe,ATC Holding Pattern
+NG2113,2025-05-30,United Nigeria,5N-BWC,Q400,Abuja-Port Harcourt,60,900.0,990.7,90.7,10.08,122.5,202131.03,Normal,Suboptimal Routing
+NG2114,2025-03-24,Dana Air,5N-BWF,CRJ900,Lagos-Kano,90,1650.0,1708.5,58.5,3.55,79.01,130368.94,Normal,Within Normal Range
+NG2115,2025-06-19,United Nigeria,5N-BWE,CRJ900,Abuja-Kano,50,916.7,957.0,40.3,4.4,54.41,89775.57,Normal,Within Normal Range
+NG2116,2025-03-22,Air Peace,5N-BWB,CRJ900,Abuja-Port Harcourt,60,1100.0,1076.3,-23.7,-2.16,-32.04,-52872.2,Normal,Within Normal Range
+NG2117,2025-04-16,United Nigeria,5N-BWH,B737-800,Abuja-Enugu,45,1800.0,2204.0,404.0,22.45,545.46,900016.18,Severe,ATC Holding Pattern
+NG2118,2025-03-10,United Nigeria,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,2139.9,139.9,6.99,188.8,311526.27,Normal,Minor ATC Delay
+NG2119,2025-06-11,United Nigeria,5N-BWA,B737-800,Lagos-Enugu,50,2000.0,2012.1,12.1,0.61,16.37,27007.5,Normal,Within Normal Range
+NG2120,2025-01-24,Dana Air,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,1902.8,102.8,5.71,138.72,228895.35,Normal,Suboptimal Routing
+NG2121,2025-03-16,Air Peace,5N-BWH,A320,Lagos-Kano,90,3450.0,3383.8,-66.2,-1.92,-89.41,-147525.1,Normal,Within Normal Range
+NG2122,2025-04-27,United Nigeria,5N-BWD,CRJ900,Abuja-Enugu,45,825.0,863.4,38.4,4.66,51.9,85629.83,Normal,Within Normal Range
+NG2123,2025-03-12,Overland Airways,5N-BWB,A320,Abuja-Port Harcourt,60,2300.0,2329.3,29.3,1.28,39.6,65341.78,Normal,Within Normal Range
+NG2124,2025-03-14,Overland Airways,5N-BWA,Q400,Abuja-Kano,50,750.0,791.8,41.8,5.58,56.47,93183.29,Normal,Minor ATC Delay
+NG2125,2025-03-30,Ibom Air,5N-BWH,CRJ900,Abuja-Enugu,45,825.0,909.7,84.7,10.27,114.4,188762.58,Normal,Minor ATC Delay
+NG2126,2025-05-27,Dana Air,5N-BWD,A320,Lagos-Kano,90,3450.0,3541.2,91.2,2.64,123.06,203052.34,Normal,Within Normal Range
+NG2127,2025-06-30,Air Peace,5N-BWH,Q400,Lagos-Kano,90,1350.0,1337.1,-12.9,-0.96,-17.44,-28775.25,Normal,Within Normal Range
+NG2128,2025-02-02,Ibom Air,5N-BWA,CRJ900,Lagos-Enugu,50,916.7,935.1,18.5,2.01,24.94,41143.01,Normal,Within Normal Range
+NG2129,2025-05-15,Air Peace,5N-BWB,CRJ900,Abuja-Enugu,45,825.0,787.7,-37.3,-4.52,-50.4,-83154.58,Normal,Within Normal Range
+NG2130,2025-05-01,United Nigeria,5N-BWB,A320,Lagos-Port Harcourt,45,1725.0,1644.7,-80.3,-4.66,-108.41,-178878.76,Normal,Within Normal Range
+NG2131,2025-06-22,United Nigeria,5N-BWF,B737-800,Abuja-Port Harcourt,60,2400.0,2404.0,4.0,0.17,5.46,9015.0,Normal,Within Normal Range
+NG2132,2025-03-02,United Nigeria,5N-BWB,B737-800,Abuja-Kano,50,2000.0,2039.5,39.5,1.98,53.39,88086.46,Normal,Within Normal Range
+NG2133,2025-06-12,Air Peace,5N-BWB,CRJ900,Lagos-Port Harcourt,45,825.0,819.7,-5.3,-0.65,-7.19,-11871.52,Normal,Within Normal Range
+NG2134,2025-03-25,Dana Air,5N-BWA,B737-800,Lagos-Port Harcourt,45,1800.0,1746.9,-53.1,-2.95,-71.72,-118345.14,Normal,Within Normal Range
+NG2135,2025-05-16,United Nigeria,5N-BWD,A320,Abuja-Kano,50,1916.7,2028.8,112.1,5.85,151.39,249791.78,Normal,Extra APU Usage
+NG2136,2025-06-08,Ibom Air,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,1782.4,-17.6,-0.98,-23.74,-39164.6,Normal,Within Normal Range
+NG2137,2025-06-13,Ibom Air,5N-BWH,A320,Abuja-Port Harcourt,60,2300.0,2264.5,-35.5,-1.55,-47.99,-79179.76,Normal,Within Normal Range
+NG2138,2025-01-19,United Nigeria,5N-BWC,Q400,Lagos-Abuja,55,825.0,842.6,17.6,2.13,23.74,39163.34,Normal,Within Normal Range
+NG2139,2025-04-27,Dana Air,5N-BWE,CRJ900,Abuja-Port Harcourt,60,1100.0,1051.3,-48.7,-4.43,-65.75,-108484.24,Normal,Within Normal Range
+NG2140,2025-04-08,United Nigeria,5N-BWD,B737-800,Lagos-Kano,90,3600.0,3667.8,67.8,1.88,91.51,150983.36,Normal,Within Normal Range
+NG2141,2025-03-12,Dana Air,5N-BWG,B737-800,Lagos-Enugu,50,2000.0,2704.8,704.8,35.24,951.55,1570049.77,Severe,Excess Taxi Time
+NG2142,2025-06-05,United Nigeria,5N-BWD,Q400,Abuja-Port Harcourt,60,900.0,850.2,-49.8,-5.53,-67.25,-110954.61,Normal,Within Normal Range
+NG2143,2025-06-10,Overland Airways,5N-BWC,Q400,Lagos-Port Harcourt,45,675.0,755.5,80.5,11.93,108.72,179390.9,Moderate,Suboptimal Routing
+NG2144,2025-02-03,United Nigeria,5N-BWF,B737-800,Abuja-Kano,50,2000.0,2170.7,170.7,8.54,230.47,380271.71,Moderate,Minor ATC Delay
+NG2145,2025-05-16,Ibom Air,5N-BWF,A320,Lagos-Port Harcourt,45,1725.0,1743.7,18.7,1.08,25.24,41643.86,Normal,Within Normal Range
+NG2146,2025-03-28,Dana Air,5N-BWE,CRJ900,Lagos-Port Harcourt,45,825.0,797.8,-27.2,-3.3,-36.77,-60672.19,Normal,Within Normal Range
+NG2147,2025-05-23,Ibom Air,5N-BWG,A320,Lagos-Abuja,55,2108.3,2123.0,14.7,0.69,19.78,32638.48,Normal,Within Normal Range
+NG2148,2025-04-05,Dana Air,5N-BWH,B737-800,Lagos-Abuja,55,2200.0,2275.8,75.8,3.45,102.36,168887.6,Normal,Within Normal Range
+NG2149,2025-06-22,United Nigeria,5N-BWB,Q400,Abuja-Port Harcourt,60,900.0,881.9,-18.1,-2.01,-24.4,-40252.25,Normal,Within Normal Range
+NG2150,2025-06-12,Dana Air,5N-BWB,A320,Abuja-Port Harcourt,60,2300.0,2408.8,108.8,4.73,146.94,242458.98,Normal,Within Normal Range
+NG2151,2025-01-12,United Nigeria,5N-BWC,B737-800,Abuja-Kano,50,2000.0,2004.3,4.3,0.21,5.79,9552.64,Normal,Within Normal Range
+NG2152,2025-05-18,Air Peace,5N-BWD,B737-800,Lagos-Kano,90,3600.0,3912.7,312.7,8.69,422.16,696562.95,Moderate,Minor ATC Delay
+NG2153,2025-05-06,Ibom Air,5N-BWB,CRJ900,Abuja-Port Harcourt,60,1100.0,1155.9,55.9,5.08,75.48,124534.0,Normal,Ground Delay
+NG2154,2025-04-24,Dana Air,5N-BWH,A320,Lagos-Abuja,55,2108.3,2201.7,93.3,4.43,126.02,207925.94,Normal,Within Normal Range
+NG2155,2025-04-12,Dana Air,5N-BWA,Q400,Lagos-Abuja,55,825.0,847.0,22.0,2.67,29.71,49021.08,Normal,Within Normal Range
+NG2156,2025-06-14,United Nigeria,5N-BWD,B737-800,Abuja-Enugu,45,1800.0,1969.8,169.8,9.43,229.23,378223.46,Normal,Suboptimal Routing
+NG2157,2025-05-25,Dana Air,5N-BWC,A320,Abuja-Enugu,45,1725.0,1807.7,82.7,4.79,111.6,184138.17,Normal,Within Normal Range
+NG2158,2025-03-26,Ibom Air,5N-BWD,A320,Abuja-Port Harcourt,60,2300.0,2326.1,26.1,1.13,35.2,58083.63,Normal,Within Normal Range
+NG2159,2025-02-03,Air Peace,5N-BWC,Q400,Abuja-Port Harcourt,60,900.0,946.3,46.3,5.14,62.44,103022.5,Normal,Suboptimal Routing
+NG2160,2025-04-02,Air Peace,5N-BWA,A320,Lagos-Enugu,50,1916.7,1854.7,-62.0,-3.23,-83.64,-138002.05,Normal,Within Normal Range
+NG2161,2025-01-14,Air Peace,5N-BWE,A320,Abuja-Kano,50,1916.7,2126.2,209.6,10.93,282.93,466828.3,Moderate,Suboptimal Routing
+NG2162,2025-04-03,Air Peace,5N-BWH,CRJ900,Lagos-Enugu,50,916.7,928.4,11.8,1.29,15.9,26238.56,Normal,Within Normal Range
+NG2163,2025-04-28,Ibom Air,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2297.1,-102.9,-4.29,-138.98,-229320.64,Normal,Within Normal Range
+NG2164,2025-05-06,United Nigeria,5N-BWB,CRJ900,Lagos-Kano,90,1650.0,1685.1,35.1,2.12,47.33,78099.23,Normal,Within Normal Range
+NG2165,2025-02-02,Dana Air,5N-BWB,A320,Lagos-Abuja,55,2108.3,2169.2,60.9,2.89,82.17,135578.44,Normal,Within Normal Range
+NG2166,2025-04-27,Dana Air,5N-BWE,CRJ900,Abuja-Port Harcourt,60,1100.0,1127.1,27.1,2.46,36.52,60260.93,Normal,Within Normal Range
+NG2167,2025-04-26,Air Peace,5N-BWG,A320,Abuja-Enugu,45,1725.0,1810.0,85.0,4.93,114.78,189385.57,Normal,Within Normal Range
+NG2168,2025-01-25,United Nigeria,5N-BWG,CRJ900,Abuja-Enugu,45,825.0,814.3,-10.7,-1.3,-14.51,-23943.23,Normal,Within Normal Range
+NG2169,2025-01-18,Dana Air,5N-BWH,A320,Abuja-Kano,50,1916.7,1997.2,80.5,4.2,108.73,179398.21,Moderate,Within Normal Range
+NG2170,2025-05-23,Air Peace,5N-BWC,Q400,Lagos-Kano,90,1350.0,1789.4,439.4,32.55,593.24,978853.27,Severe,Weather Diversion
+NG2171,2025-06-20,Air Peace,5N-BWF,CRJ900,Lagos-Enugu,50,916.7,898.2,-18.5,-2.02,-24.99,-41234.38,Normal,Within Normal Range
+NG2172,2025-04-01,Air Peace,5N-BWE,Q400,Lagos-Enugu,50,750.0,823.7,73.7,9.83,99.5,164179.0,Moderate,Extra APU Usage
+NG2173,2025-03-31,United Nigeria,5N-BWB,A320,Lagos-Enugu,50,1916.7,1929.9,13.2,0.69,17.8,29375.7,Normal,Within Normal Range
+NG2174,2025-05-24,Dana Air,5N-BWG,A320,Abuja-Enugu,45,1725.0,1797.8,72.8,4.22,98.3,162193.01,Normal,Within Normal Range
+NG2175,2025-01-08,Overland Airways,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2725.9,325.9,13.58,439.93,725877.54,Moderate,Ground Delay
+NG2176,2025-02-06,Dana Air,5N-BWC,B737-800,Abuja-Kano,50,2000.0,2004.7,4.7,0.24,6.36,10492.82,Normal,Within Normal Range
+NG2177,2025-04-07,Air Peace,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,1860.5,60.5,3.36,81.67,134759.42,Normal,Within Normal Range
+NG2178,2025-01-14,Dana Air,5N-BWB,Q400,Abuja-Kano,50,750.0,837.7,87.7,11.7,118.44,195420.64,Moderate,Suboptimal Routing
+NG2179,2025-06-19,Air Peace,5N-BWH,Q400,Lagos-Enugu,50,750.0,829.2,79.2,10.56,106.93,176437.2,Normal,Minor ATC Delay
+NG2180,2025-04-21,Ibom Air,5N-BWF,B737-800,Abuja-Kano,50,2000.0,2263.8,263.8,13.19,356.13,587611.4,Moderate,Minor ATC Delay
+NG2181,2025-04-12,Dana Air,5N-BWD,B737-800,Abuja-Port Harcourt,60,2400.0,2299.9,-100.1,-4.17,-135.07,-222870.18,Normal,Within Normal Range
+NG2182,2025-03-07,Dana Air,5N-BWC,A320,Lagos-Port Harcourt,45,1725.0,1644.8,-80.2,-4.65,-108.23,-178577.89,Normal,Within Normal Range
+NG2183,2025-04-08,United Nigeria,5N-BWC,A320,Lagos-Kano,90,3450.0,3430.3,-19.7,-0.57,-26.63,-43938.78,Normal,Within Normal Range
+NG2184,2025-01-11,Dana Air,5N-BWG,B737-800,Abuja-Port Harcourt,60,2400.0,2406.2,6.2,0.26,8.39,13848.35,Normal,Within Normal Range
+NG2185,2025-06-13,Dana Air,5N-BWG,CRJ900,Lagos-Abuja,55,1008.3,1006.7,-1.7,-0.17,-2.27,-3745.17,Normal,Within Normal Range
+NG2186,2025-06-26,Dana Air,5N-BWH,A320,Lagos-Abuja,55,2108.3,2079.8,-28.5,-1.35,-38.49,-63504.79,Normal,Within Normal Range
+NG2187,2025-05-31,Air Peace,5N-BWG,A320,Abuja-Enugu,45,1725.0,1681.0,-44.0,-2.55,-59.34,-97910.91,Normal,Within Normal Range
+NG2188,2025-03-27,Dana Air,5N-BWD,Q400,Abuja-Enugu,45,675.0,638.6,-36.4,-5.4,-49.21,-81189.17,Normal,Within Normal Range
+NG2189,2025-03-31,Air Peace,5N-BWF,A320,Lagos-Enugu,50,1916.7,1921.1,4.4,0.23,6.01,9909.11,Normal,Within Normal Range
+NG2190,2025-02-07,Ibom Air,5N-BWB,A320,Abuja-Enugu,45,1725.0,1678.4,-46.6,-2.7,-62.86,-103714.1,Normal,Within Normal Range
+NG2191,2025-04-29,Air Peace,5N-BWH,A320,Lagos-Port Harcourt,45,1725.0,1814.1,89.1,5.16,120.26,198429.7,Normal,Minor ATC Delay
+NG2192,2025-02-08,Overland Airways,5N-BWF,Q400,Lagos-Enugu,50,750.0,760.8,10.8,1.44,14.54,23998.0,Normal,Within Normal Range
+NG2193,2025-04-01,Dana Air,5N-BWA,Q400,Lagos-Enugu,50,750.0,716.2,-33.8,-4.5,-45.59,-75229.94,Normal,Within Normal Range
+NG2194,2025-03-15,Air Peace,5N-BWF,B737-800,Lagos-Kano,90,3600.0,4770.1,1170.1,32.5,1579.57,2606293.43,Severe,Excess Taxi Time
+NG2195,2025-05-29,Overland Airways,5N-BWH,CRJ900,Abuja-Port Harcourt,60,1100.0,1147.1,47.1,4.28,63.56,104878.58,Normal,Within Normal Range
+NG2196,2025-06-04,United Nigeria,5N-BWF,A320,Lagos-Abuja,55,2108.3,2033.4,-74.9,-3.55,-101.15,-166899.4,Normal,Within Normal Range
+NG2197,2025-01-22,United Nigeria,5N-BWF,B737-800,Lagos-Abuja,55,2200.0,2171.3,-28.7,-1.31,-38.76,-63955.98,Normal,Within Normal Range
+NG2198,2025-04-04,United Nigeria,5N-BWC,CRJ900,Lagos-Port Harcourt,45,825.0,820.5,-4.5,-0.55,-6.08,-10040.21,Normal,Within Normal Range
+NG2199,2025-01-17,Dana Air,5N-BWF,B737-800,Lagos-Kano,90,3600.0,3601.3,1.3,0.03,1.7,2806.07,Normal,Within Normal Range
+NG2200,2025-03-27,Dana Air,5N-BWC,Q400,Lagos-Kano,90,1350.0,1515.7,165.7,12.27,223.66,369040.02,Moderate,Ground Delay
+NG2201,2025-03-21,United Nigeria,5N-BWB,A320,Abuja-Kano,50,1916.7,1981.4,64.7,3.38,87.37,144168.07,Normal,Within Normal Range
+NG2202,2025-05-11,Ibom Air,5N-BWG,B737-800,Abuja-Kano,50,2000.0,2046.8,46.8,2.34,63.12,104142.16,Normal,Within Normal Range
+NG2203,2025-02-19,Ibom Air,5N-BWH,Q400,Lagos-Port Harcourt,45,675.0,687.5,12.5,1.85,16.83,27776.43,Normal,Within Normal Range
+NG2204,2025-06-19,Dana Air,5N-BWA,B737-800,Lagos-Abuja,55,2200.0,2206.9,6.9,0.31,9.28,15314.1,Normal,Within Normal Range
+NG2205,2025-02-11,Overland Airways,5N-BWC,CRJ900,Lagos-Port Harcourt,45,825.0,898.1,73.1,8.86,98.67,162804.61,Moderate,Extra APU Usage
+NG2206,2025-04-04,United Nigeria,5N-BWG,B737-800,Lagos-Enugu,50,2000.0,2001.2,1.2,0.06,1.59,2631.61,Normal,Within Normal Range
+NG2207,2025-03-01,Overland Airways,5N-BWH,Q400,Lagos-Kano,90,1350.0,1355.3,5.3,0.39,7.09,11701.94,Normal,Within Normal Range
+NG2208,2025-06-23,United Nigeria,5N-BWF,A320,Abuja-Enugu,45,1725.0,1830.7,105.7,6.13,142.74,235524.03,Normal,Minor ATC Delay
+NG2209,2025-02-11,Dana Air,5N-BWG,CRJ900,Abuja-Enugu,45,825.0,957.2,132.2,16.02,178.41,294379.4,Normal,Non-Optimal Altitude
+NG2210,2025-04-06,Dana Air,5N-BWH,B737-800,Abuja-Enugu,45,1800.0,1786.5,-13.5,-0.75,-18.27,-30153.68,Normal,Within Normal Range
+NG2211,2025-01-22,Overland Airways,5N-BWE,B737-800,Abuja-Enugu,45,1800.0,1836.4,36.4,2.02,49.12,81041.8,Normal,Within Normal Range
+NG2212,2025-02-26,Ibom Air,5N-BWB,CRJ900,Abuja-Port Harcourt,60,1100.0,1170.6,70.6,6.42,95.32,157273.68,Normal,Suboptimal Routing
+NG2213,2025-03-02,Air Peace,5N-BWF,CRJ900,Lagos-Kano,90,1650.0,1628.9,-21.1,-1.28,-28.54,-47090.5,Normal,Within Normal Range
+NG2214,2025-06-16,Air Peace,5N-BWB,Q400,Lagos-Port Harcourt,45,675.0,655.1,-19.9,-2.95,-26.91,-44393.63,Normal,Within Normal Range
+NG2215,2025-06-30,Dana Air,5N-BWC,CRJ900,Lagos-Abuja,55,1008.3,1048.2,39.9,3.96,53.84,88833.28,Normal,Within Normal Range
+NG2216,2025-02-08,Air Peace,5N-BWD,Q400,Lagos-Abuja,55,825.0,829.7,4.7,0.57,6.34,10468.56,Normal,Within Normal Range
+NG2217,2025-03-02,United Nigeria,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2326.5,-73.5,-3.06,-99.21,-163696.62,Normal,Within Normal Range
+NG2218,2025-01-29,Overland Airways,5N-BWB,CRJ900,Lagos-Kano,90,1650.0,1653.4,3.4,0.2,4.55,7512.56,Normal,Within Normal Range
+NG2219,2025-03-16,Air Peace,5N-BWC,A320,Abuja-Port Harcourt,60,2300.0,2347.6,47.6,2.07,64.21,105948.09,Normal,Within Normal Range
+NG2220,2025-06-20,Overland Airways,5N-BWC,CRJ900,Lagos-Port Harcourt,45,825.0,897.3,72.3,8.76,97.6,161038.81,Normal,Ground Delay
+NG2221,2025-05-01,Overland Airways,5N-BWG,B737-800,Lagos-Abuja,55,2200.0,2616.2,416.2,18.92,561.87,927087.39,Severe,Weather Diversion
+NG2222,2025-03-30,Air Peace,5N-BWB,Q400,Abuja-Kano,50,750.0,783.4,33.4,4.45,45.09,74390.72,Normal,Within Normal Range
+NG2223,2025-01-12,Overland Airways,5N-BWC,Q400,Lagos-Abuja,55,825.0,783.9,-41.1,-4.98,-55.5,-91574.89,Normal,Within Normal Range
+NG2224,2025-06-11,Ibom Air,5N-BWH,CRJ900,Lagos-Enugu,50,916.7,962.1,45.5,4.96,61.36,101245.8,Moderate,Within Normal Range
+NG2225,2025-02-21,United Nigeria,5N-BWE,B737-800,Lagos-Enugu,50,2000.0,2428.8,428.8,21.44,578.87,955131.31,Severe,Excess Taxi Time
+NG2226,2025-03-06,Dana Air,5N-BWH,CRJ900,Abuja-Kano,50,916.7,1174.5,257.8,28.13,348.08,574325.2,Severe,Weather Diversion
+NG2227,2025-02-01,Air Peace,5N-BWE,Q400,Abuja-Kano,50,750.0,727.9,-22.1,-2.95,-29.9,-49336.43,Normal,Within Normal Range
+NG2228,2025-02-17,United Nigeria,5N-BWF,CRJ900,Lagos-Kano,90,1650.0,1646.9,-3.1,-0.19,-4.24,-6994.6,Normal,Within Normal Range
+NG2229,2025-04-19,Overland Airways,5N-BWB,Q400,Abuja-Enugu,45,675.0,873.9,198.9,29.47,268.5,443030.91,Severe,Non-Optimal Altitude
+NG2230,2025-01-21,Dana Air,5N-BWB,Q400,Abuja-Port Harcourt,60,900.0,876.8,-23.2,-2.58,-31.38,-51773.17,Normal,Within Normal Range
+NG2231,2025-06-26,Overland Airways,5N-BWC,CRJ900,Lagos-Kano,90,1650.0,1665.4,15.4,0.93,20.74,34226.64,Normal,Within Normal Range
+NG2232,2025-06-13,Dana Air,5N-BWE,CRJ900,Lagos-Enugu,50,916.7,959.9,43.2,4.72,58.38,96324.73,Normal,Within Normal Range
+NG2233,2025-01-08,United Nigeria,5N-BWC,Q400,Lagos-Abuja,55,825.0,900.7,75.7,9.18,102.24,168702.73,Moderate,Minor ATC Delay
+NG2234,2025-06-15,Ibom Air,5N-BWD,B737-800,Lagos-Abuja,55,2200.0,2297.9,97.9,4.45,132.11,217982.84,Normal,Within Normal Range
+NG2235,2025-04-05,Air Peace,5N-BWH,A320,Abuja-Port Harcourt,60,2300.0,2398.0,98.0,4.26,132.34,218366.6,Normal,Within Normal Range
+NG2236,2025-03-22,Ibom Air,5N-BWG,Q400,Abuja-Port Harcourt,60,900.0,842.4,-57.6,-6.4,-77.8,-128373.91,Normal,Within Normal Range
+NG2237,2025-05-13,Air Peace,5N-BWH,A320,Lagos-Abuja,55,2108.3,2147.6,39.3,1.86,53.08,87577.6,Normal,Within Normal Range
+NG2238,2025-06-06,Dana Air,5N-BWD,CRJ900,Abuja-Kano,50,916.7,938.5,21.8,2.38,29.48,48649.09,Normal,Within Normal Range
+NG2239,2025-01-19,Ibom Air,5N-BWC,B737-800,Lagos-Kano,90,3600.0,3789.2,189.2,5.25,255.39,421396.36,Normal,Minor ATC Delay
+NG2240,2025-05-21,Dana Air,5N-BWB,Q400,Lagos-Abuja,55,825.0,840.1,15.1,1.83,20.33,33540.34,Normal,Within Normal Range
+NG2241,2025-05-11,Ibom Air,5N-BWF,A320,Abuja-Enugu,45,1725.0,1804.4,79.4,4.6,107.16,176817.53,Normal,Within Normal Range
+NG2242,2025-01-07,Ibom Air,5N-BWH,A320,Abuja-Enugu,45,1725.0,1773.4,48.4,2.81,65.39,107886.17,Normal,Within Normal Range
+NG2243,2025-01-17,Overland Airways,5N-BWB,A320,Lagos-Kano,90,3450.0,3658.7,208.7,6.05,281.81,464990.51,Normal,Minor ATC Delay
+NG2244,2025-02-02,United Nigeria,5N-BWB,CRJ900,Abuja-Port Harcourt,60,1100.0,1091.1,-8.9,-0.81,-11.99,-19785.12,Normal,Within Normal Range
+NG2245,2025-05-22,United Nigeria,5N-BWC,Q400,Lagos-Kano,90,1350.0,1321.1,-28.9,-2.14,-38.98,-64321.31,Normal,Within Normal Range
+NG2246,2025-05-13,United Nigeria,5N-BWB,B737-800,Lagos-Port Harcourt,45,1800.0,1898.3,98.3,5.46,132.66,218886.93,Moderate,Ground Delay
+NG2247,2025-01-21,Ibom Air,5N-BWE,Q400,Lagos-Enugu,50,750.0,749.9,-0.1,-0.01,-0.1,-170.35,Normal,Within Normal Range
+NG2248,2025-06-07,Dana Air,5N-BWE,A320,Abuja-Port Harcourt,60,2300.0,2397.6,97.6,4.24,131.79,217454.2,Normal,Within Normal Range
+NG2249,2025-06-18,Overland Airways,5N-BWC,A320,Lagos-Port Harcourt,45,1725.0,1814.7,89.7,5.2,121.14,199885.5,Normal,Ground Delay
+NG2250,2025-01-21,Overland Airways,5N-BWA,B737-800,Abuja-Enugu,45,1800.0,2244.2,444.2,24.68,599.65,989418.89,Severe,Weather Diversion
+NG2251,2025-05-08,Ibom Air,5N-BWA,CRJ900,Lagos-Enugu,50,916.7,954.0,37.3,4.07,50.34,83066.34,Normal,Within Normal Range
+NG2252,2025-06-25,Dana Air,5N-BWD,CRJ900,Lagos-Enugu,50,916.7,979.7,63.1,6.88,85.13,140461.96,Normal,Suboptimal Routing
+NG2253,2025-04-29,United Nigeria,5N-BWH,CRJ900,Lagos-Port Harcourt,45,825.0,868.2,43.2,5.23,58.27,96152.58,Normal,Ground Delay
+NG2254,2025-02-03,Dana Air,5N-BWG,Q400,Abuja-Enugu,45,675.0,646.1,-28.9,-4.28,-39.02,-64388.01,Normal,Within Normal Range
+NG2255,2025-02-01,Dana Air,5N-BWH,A320,Lagos-Abuja,55,2108.3,2066.6,-41.8,-1.98,-56.39,-93047.53,Normal,Within Normal Range
+NG2256,2025-06-07,Air Peace,5N-BWG,Q400,Lagos-Abuja,55,825.0,894.2,69.2,8.39,93.41,154127.71,Normal,Extra APU Usage
+NG2257,2025-02-10,Dana Air,5N-BWD,Q400,Abuja-Enugu,45,675.0,665.6,-9.4,-1.4,-12.74,-21025.21,Normal,Within Normal Range
+NG2258,2025-01-24,Dana Air,5N-BWA,CRJ900,Lagos-Kano,90,1650.0,1679.2,29.2,1.77,39.42,65047.0,Normal,Within Normal Range
+NG2259,2025-01-13,Ibom Air,5N-BWA,Q400,Lagos-Port Harcourt,45,675.0,705.6,30.6,4.53,41.32,68177.61,Normal,Within Normal Range
+NG2260,2025-01-28,United Nigeria,5N-BWA,Q400,Abuja-Enugu,45,675.0,680.2,5.2,0.76,6.96,11485.61,Normal,Within Normal Range
+NG2261,2025-01-12,Dana Air,5N-BWF,CRJ900,Lagos-Enugu,50,916.7,929.4,12.7,1.39,17.16,28319.25,Normal,Within Normal Range
+NG2262,2025-04-09,Dana Air,5N-BWB,Q400,Lagos-Port Harcourt,45,675.0,618.2,-56.8,-8.41,-76.63,-126438.68,Normal,Within Normal Range
+NG2263,2025-01-25,Overland Airways,5N-BWC,B737-800,Abuja-Kano,50,2000.0,2021.1,21.1,1.05,28.47,46969.32,Normal,Within Normal Range
+NG2264,2025-02-20,Overland Airways,5N-BWC,Q400,Abuja-Kano,50,750.0,745.5,-4.5,-0.6,-6.05,-9975.66,Normal,Within Normal Range
+NG2265,2025-03-27,Air Peace,5N-BWC,B737-800,Lagos-Abuja,55,2200.0,2169.3,-30.7,-1.4,-41.51,-68490.47,Normal,Within Normal Range
+NG2266,2025-06-06,Overland Airways,5N-BWF,A320,Lagos-Port Harcourt,45,1725.0,1796.0,71.0,4.12,95.9,158239.39,Normal,Within Normal Range
+NG2267,2025-05-25,Dana Air,5N-BWH,Q400,Abuja-Port Harcourt,60,900.0,897.4,-2.6,-0.29,-3.5,-5768.06,Normal,Within Normal Range
+NG2268,2025-05-30,Dana Air,5N-BWG,B737-800,Abuja-Kano,50,2000.0,2064.0,64.0,3.2,86.4,142561.64,Normal,Within Normal Range
+NG2269,2025-06-17,Air Peace,5N-BWE,CRJ900,Abuja-Enugu,45,825.0,855.0,30.0,3.64,40.51,66839.9,Normal,Within Normal Range
+NG2270,2025-02-13,Ibom Air,5N-BWH,B737-800,Abuja-Port Harcourt,60,2400.0,2531.3,131.3,5.47,177.29,292525.11,Normal,Minor ATC Delay
+NG2271,2025-02-18,Ibom Air,5N-BWB,B737-800,Lagos-Port Harcourt,45,1800.0,2118.3,318.3,17.68,429.73,709047.77,Severe,Non-Optimal Altitude
+NG2272,2025-01-16,Ibom Air,5N-BWH,CRJ900,Lagos-Kano,90,1650.0,1700.4,50.4,3.05,68.0,112202.75,Normal,Within Normal Range
+NG2273,2025-03-22,Dana Air,5N-BWG,CRJ900,Abuja-Port Harcourt,60,1100.0,1107.7,7.7,0.7,10.43,17211.19,Normal,Within Normal Range
+NG2274,2025-06-06,Dana Air,5N-BWE,Q400,Abuja-Port Harcourt,60,900.0,918.4,18.4,2.04,24.8,40923.82,Normal,Within Normal Range
+NG2275,2025-03-18,Overland Airways,5N-BWD,Q400,Abuja-Kano,50,750.0,780.9,30.9,4.12,41.69,68795.31,Normal,Within Normal Range
+NG2276,2025-03-31,United Nigeria,5N-BWH,Q400,Lagos-Enugu,50,750.0,788.3,38.3,5.11,51.77,85416.95,Normal,Ground Delay
+NG2277,2025-03-30,Air Peace,5N-BWG,CRJ900,Abuja-Kano,50,916.7,932.0,15.3,1.67,20.65,34079.2,Normal,Within Normal Range
+NG2278,2025-03-30,Air Peace,5N-BWB,Q400,Abuja-Kano,50,750.0,768.5,18.5,2.47,25.02,41283.53,Normal,Within Normal Range
+NG2279,2025-05-18,United Nigeria,5N-BWD,A320,Lagos-Enugu,50,1916.7,1929.2,12.5,0.65,16.87,27827.99,Normal,Within Normal Range
+NG2280,2025-03-04,Ibom Air,5N-BWD,B737-800,Abuja-Kano,50,2000.0,2667.2,667.2,33.36,900.7,1486147.81,Severe,Non-Optimal Altitude
+NG2281,2025-04-16,Ibom Air,5N-BWB,B737-800,Lagos-Enugu,50,2000.0,2045.4,45.4,2.27,61.26,101085.08,Normal,Within Normal Range
+NG2282,2025-04-15,Ibom Air,5N-BWC,B737-800,Lagos-Enugu,50,2000.0,2152.3,152.3,7.61,205.57,339191.11,Normal,Minor ATC Delay
+NG2283,2025-03-15,Ibom Air,5N-BWF,Q400,Lagos-Kano,90,1350.0,1377.8,27.8,2.06,37.6,62035.03,Normal,Within Normal Range
+NG2284,2025-02-14,Overland Airways,5N-BWA,A320,Lagos-Abuja,55,2108.3,2275.9,167.6,7.95,226.28,373358.91,Normal,Suboptimal Routing
+NG2285,2025-03-16,United Nigeria,5N-BWC,CRJ900,Abuja-Enugu,45,825.0,748.2,-76.8,-9.31,-103.74,-171171.65,Normal,Within Normal Range
+NG2286,2025-03-14,Overland Airways,5N-BWF,B737-800,Abuja-Port Harcourt,60,2400.0,2444.3,44.3,1.85,59.81,98681.93,Normal,Within Normal Range
+NG2287,2025-03-11,United Nigeria,5N-BWH,A320,Abuja-Port Harcourt,60,2300.0,2465.6,165.6,7.2,223.58,368914.27,Moderate,Extra APU Usage
+NG2288,2025-01-04,United Nigeria,5N-BWC,Q400,Lagos-Enugu,50,750.0,781.7,31.7,4.23,42.78,70589.17,Normal,Within Normal Range
+NG2289,2025-04-20,Ibom Air,5N-BWG,A320,Abuja-Port Harcourt,60,2300.0,2220.8,-79.2,-3.44,-106.91,-176403.81,Normal,Within Normal Range
+NG2290,2025-05-03,Air Peace,5N-BWC,A320,Lagos-Enugu,50,1916.7,1888.5,-28.2,-1.47,-38.08,-62831.65,Normal,Within Normal Range
+NG2291,2025-03-10,United Nigeria,5N-BWH,A320,Abuja-Kano,50,1916.7,1884.8,-31.9,-1.66,-43.08,-71074.35,Normal,Within Normal Range
+NG2292,2025-06-17,Overland Airways,5N-BWE,B737-800,Lagos-Enugu,50,2000.0,1951.3,-48.7,-2.44,-65.76,-108508.21,Normal,Within Normal Range
+NG2293,2025-02-10,Air Peace,5N-BWE,CRJ900,Lagos-Enugu,50,916.7,949.0,32.3,3.52,43.59,71927.66,Normal,Within Normal Range
+NG2294,2025-04-05,Dana Air,5N-BWE,B737-800,Lagos-Enugu,50,2000.0,1991.1,-8.9,-0.44,-11.98,-19766.23,Normal,Within Normal Range
+NG2295,2025-06-05,United Nigeria,5N-BWH,A320,Lagos-Port Harcourt,45,1725.0,1741.0,16.0,0.93,21.62,35674.79,Normal,Within Normal Range
+NG2296,2025-06-24,Overland Airways,5N-BWD,A320,Lagos-Kano,90,3450.0,3625.3,175.3,5.08,236.61,390410.52,Normal,Suboptimal Routing
+NG2297,2025-05-25,United Nigeria,5N-BWB,Q400,Abuja-Port Harcourt,60,900.0,1027.0,127.0,14.11,171.4,282814.21,Moderate,Extra APU Usage
+NG2298,2025-03-25,Overland Airways,5N-BWC,A320,Abuja-Port Harcourt,60,2300.0,2346.4,46.4,2.02,62.69,103442.58,Normal,Within Normal Range
+NG2299,2025-05-11,Ibom Air,5N-BWB,CRJ900,Lagos-Enugu,50,916.7,910.2,-6.4,-0.7,-8.67,-14300.69,Normal,Within Normal Range
+NG2300,2025-05-25,Overland Airways,5N-BWH,CRJ900,Lagos-Port Harcourt,45,825.0,1002.7,177.7,21.53,239.84,395736.66,Severe,Weather Diversion
+NG2301,2025-01-01,Air Peace,5N-BWE,CRJ900,Lagos-Enugu,50,916.7,916.5,-0.2,-0.02,-0.29,-479.79,Normal,Within Normal Range
+NG2302,2025-05-19,United Nigeria,5N-BWB,Q400,Lagos-Abuja,55,825.0,879.9,54.9,6.65,74.07,122217.38,Normal,Suboptimal Routing
+NG2303,2025-02-16,Air Peace,5N-BWG,Q400,Lagos-Kano,90,1350.0,1406.9,56.9,4.21,76.76,126651.81,Normal,Within Normal Range
+NG2304,2025-04-25,United Nigeria,5N-BWG,Q400,Lagos-Enugu,50,750.0,781.4,31.4,4.19,42.4,69953.3,Normal,Within Normal Range
+NG2305,2025-01-31,Air Peace,5N-BWF,A320,Lagos-Kano,90,3450.0,3812.8,362.8,10.52,489.76,808096.74,Moderate,Extra APU Usage
+NG2306,2025-03-18,Ibom Air,5N-BWA,B737-800,Lagos-Enugu,50,2000.0,2112.5,112.5,5.63,151.94,250705.03,Normal,Minor ATC Delay
+NG2307,2025-04-28,United Nigeria,5N-BWD,A320,Abuja-Port Harcourt,60,2300.0,2256.9,-43.1,-1.88,-58.22,-96064.16,Normal,Within Normal Range
+NG2308,2025-06-07,Air Peace,5N-BWG,B737-800,Lagos-Enugu,50,2000.0,2106.0,106.0,5.3,143.13,236160.53,Normal,Suboptimal Routing
+NG2309,2025-06-02,Ibom Air,5N-BWB,B737-800,Lagos-Port Harcourt,45,1800.0,2276.1,476.1,26.45,642.74,1060521.42,Severe,Excess Taxi Time
+NG2310,2025-03-01,Air Peace,5N-BWH,CRJ900,Lagos-Port Harcourt,45,825.0,844.2,19.2,2.32,25.87,42683.5,Normal,Within Normal Range
+NG2311,2025-03-01,Air Peace,5N-BWE,A320,Abuja-Enugu,45,1725.0,1820.3,95.3,5.53,128.72,212387.76,Normal,Ground Delay
+NG2312,2025-03-19,Overland Airways,5N-BWD,Q400,Abuja-Port Harcourt,60,900.0,963.8,63.8,7.09,86.1,142070.11,Normal,Extra APU Usage
+NG2313,2025-05-23,Dana Air,5N-BWA,Q400,Lagos-Kano,90,1350.0,1424.0,74.0,5.48,99.94,164909.25,Normal,Extra APU Usage
+NG2314,2025-03-30,United Nigeria,5N-BWA,CRJ900,Lagos-Enugu,50,916.7,973.6,57.0,6.22,76.92,126922.31,Normal,Ground Delay
+NG2315,2025-03-18,United Nigeria,5N-BWC,CRJ900,Lagos-Enugu,50,916.7,945.1,28.4,3.1,38.33,63240.84,Normal,Within Normal Range
+NG2316,2025-02-06,Ibom Air,5N-BWE,A320,Lagos-Kano,90,3450.0,3627.6,177.6,5.15,239.77,395627.59,Normal,Minor ATC Delay
+NG2317,2025-03-04,Overland Airways,5N-BWG,A320,Lagos-Kano,90,3450.0,3424.6,-25.4,-0.74,-34.26,-56530.87,Normal,Within Normal Range
+NG2318,2025-05-18,United Nigeria,5N-BWB,Q400,Lagos-Abuja,55,825.0,820.6,-4.4,-0.53,-5.94,-9797.04,Normal,Within Normal Range
+NG2319,2025-02-18,United Nigeria,5N-BWB,B737-800,Abuja-Kano,50,2000.0,2028.2,28.2,1.41,38.01,62719.61,Normal,Within Normal Range
+NG2320,2025-02-23,Overland Airways,5N-BWH,A320,Lagos-Enugu,50,1916.7,1914.3,-2.4,-0.12,-3.2,-5282.83,Normal,Within Normal Range
+NG2321,2025-05-03,Ibom Air,5N-BWB,A320,Lagos-Abuja,55,2108.3,2187.4,79.1,3.75,106.75,176140.81,Normal,Within Normal Range
+NG2322,2025-05-22,Ibom Air,5N-BWD,CRJ900,Lagos-Enugu,50,916.7,887.8,-28.8,-3.15,-38.93,-64228.37,Normal,Within Normal Range
+NG2323,2025-03-08,Overland Airways,5N-BWE,Q400,Lagos-Kano,90,1350.0,1455.1,105.1,7.78,141.83,234023.35,Normal,Minor ATC Delay
+NG2324,2025-04-05,United Nigeria,5N-BWD,Q400,Lagos-Abuja,55,825.0,779.1,-45.9,-5.56,-61.93,-102191.46,Normal,Within Normal Range
+NG2325,2025-03-08,Ibom Air,5N-BWA,A320,Abuja-Enugu,45,1725.0,1702.9,-22.1,-1.28,-29.9,-49338.06,Normal,Within Normal Range
+NG2326,2025-02-20,United Nigeria,5N-BWC,Q400,Lagos-Enugu,50,750.0,778.1,28.1,3.74,37.91,62559.44,Normal,Within Normal Range
+NG2327,2025-03-07,Ibom Air,5N-BWF,CRJ900,Abuja-Enugu,45,825.0,853.9,28.9,3.5,38.98,64316.58,Normal,Within Normal Range
+NG2328,2025-04-01,United Nigeria,5N-BWC,CRJ900,Lagos-Enugu,50,916.7,1045.4,128.7,14.04,173.76,286708.9,Moderate,Minor ATC Delay
+NG2329,2025-01-20,Overland Airways,5N-BWA,B737-800,Lagos-Port Harcourt,45,1800.0,1870.5,70.5,3.92,95.17,157035.6,Normal,Within Normal Range
+NG2330,2025-06-11,Air Peace,5N-BWC,CRJ900,Abuja-Enugu,45,825.0,846.6,21.6,2.62,29.15,48097.36,Normal,Within Normal Range
+NG2331,2025-01-16,Ibom Air,5N-BWF,CRJ900,Lagos-Abuja,55,1008.3,1007.6,-0.7,-0.07,-0.93,-1539.17,Normal,Within Normal Range
+NG2332,2025-01-02,United Nigeria,5N-BWA,CRJ900,Abuja-Port Harcourt,60,1100.0,1105.2,5.2,0.48,7.08,11682.15,Normal,Within Normal Range
+NG2333,2025-01-05,Overland Airways,5N-BWE,Q400,Lagos-Abuja,55,825.0,830.1,5.1,0.61,6.83,11264.06,Normal,Within Normal Range
+NG2334,2025-05-15,Ibom Air,5N-BWB,B737-800,Lagos-Kano,90,3600.0,3893.0,293.0,8.14,395.52,652603.88,Moderate,Ground Delay
+NG2335,2025-01-21,Dana Air,5N-BWG,Q400,Abuja-Enugu,45,675.0,673.1,-1.9,-0.27,-2.5,-4129.56,Normal,Within Normal Range
+NG2336,2025-06-25,Ibom Air,5N-BWE,A320,Abuja-Port Harcourt,60,2300.0,2211.2,-88.8,-3.86,-119.93,-197885.24,Normal,Within Normal Range
+NG2337,2025-04-08,Air Peace,5N-BWG,B737-800,Abuja-Enugu,45,1800.0,1800.1,0.1,0.0,0.11,183.48,Normal,Within Normal Range
+NG2338,2025-05-08,Air Peace,5N-BWB,A320,Lagos-Enugu,50,1916.7,1975.4,58.7,3.06,79.28,130818.62,Normal,Within Normal Range
+NG2339,2025-02-28,Overland Airways,5N-BWA,B737-800,Abuja-Kano,50,2000.0,2053.5,53.5,2.68,72.27,119240.52,Normal,Within Normal Range
+NG2340,2025-01-20,United Nigeria,5N-BWA,Q400,Abuja-Port Harcourt,60,900.0,873.5,-26.5,-2.95,-35.84,-59132.18,Normal,Within Normal Range
+NG2341,2025-03-22,Overland Airways,5N-BWC,B737-800,Abuja-Port Harcourt,60,2400.0,2870.4,470.4,19.6,635.04,1047820.05,Severe,Non-Optimal Altitude
+NG2342,2025-02-11,United Nigeria,5N-BWE,B737-800,Abuja-Enugu,45,1800.0,1838.6,38.6,2.15,52.15,86043.22,Normal,Within Normal Range
+NG2343,2025-02-05,United Nigeria,5N-BWG,Q400,Abuja-Enugu,45,675.0,679.8,4.8,0.71,6.49,10705.66,Normal,Within Normal Range
+NG2344,2025-01-26,Overland Airways,5N-BWA,Q400,Lagos-Abuja,55,825.0,844.3,19.3,2.34,26.05,42985.42,Normal,Within Normal Range
+NG2345,2025-01-08,Overland Airways,5N-BWF,CRJ900,Abuja-Kano,50,916.7,952.9,36.2,3.95,48.9,80692.4,Normal,Within Normal Range
+NG2346,2025-05-22,United Nigeria,5N-BWF,A320,Lagos-Kano,90,3450.0,3404.9,-45.1,-1.31,-60.92,-100525.98,Normal,Within Normal Range
+NG2347,2025-06-08,Overland Airways,5N-BWB,CRJ900,Lagos-Enugu,50,916.7,869.2,-47.4,-5.17,-64.03,-105647.07,Normal,Within Normal Range
+NG2348,2025-04-08,Air Peace,5N-BWC,Q400,Lagos-Abuja,55,825.0,824.8,-0.2,-0.02,-0.21,-345.71,Normal,Within Normal Range
+NG2349,2025-01-28,United Nigeria,5N-BWF,Q400,Lagos-Enugu,50,750.0,853.1,103.1,13.75,139.18,229653.66,Moderate,Minor ATC Delay
+NG2350,2025-01-23,Dana Air,5N-BWC,B737-800,Abuja-Kano,50,2000.0,2203.8,203.8,10.19,275.08,453874.46,Moderate,Minor ATC Delay
+NG2351,2025-05-22,Air Peace,5N-BWF,B737-800,Lagos-Abuja,55,2200.0,2508.0,308.0,14.0,415.75,685982.38,Moderate,Ground Delay
+NG2352,2025-04-16,United Nigeria,5N-BWE,B737-800,Abuja-Enugu,45,1800.0,1796.8,-3.2,-0.18,-4.33,-7147.13,Normal,Within Normal Range
+NG2353,2025-02-13,Ibom Air,5N-BWG,A320,Abuja-Port Harcourt,60,2300.0,2477.5,177.5,7.72,239.68,395476.53,Moderate,Minor ATC Delay
+NG2354,2025-03-12,Air Peace,5N-BWG,A320,Lagos-Port Harcourt,45,1725.0,1739.3,14.3,0.83,19.27,31798.1,Normal,Within Normal Range
+NG2355,2025-06-10,Dana Air,5N-BWD,Q400,Lagos-Abuja,55,825.0,816.9,-8.1,-0.98,-10.95,-18066.28,Normal,Within Normal Range
+NG2356,2025-01-02,Air Peace,5N-BWE,A320,Lagos-Kano,90,3450.0,3437.4,-12.6,-0.36,-16.99,-28034.42,Normal,Within Normal Range
+NG2357,2025-03-27,United Nigeria,5N-BWH,Q400,Abuja-Port Harcourt,60,900.0,925.4,25.4,2.82,34.25,56504.39,Normal,Within Normal Range
+NG2358,2025-03-24,Overland Airways,5N-BWE,A320,Lagos-Enugu,50,1916.7,1979.3,62.7,3.27,84.6,139587.77,Normal,Within Normal Range
+NG2359,2025-03-23,Dana Air,5N-BWG,A320,Lagos-Kano,90,3450.0,3503.6,53.6,1.55,72.31,119315.25,Normal,Within Normal Range
+NG2360,2025-04-07,Overland Airways,5N-BWF,A320,Lagos-Kano,90,3450.0,3585.2,135.2,3.92,182.54,301184.1,Normal,Within Normal Range
+NG2361,2025-06-24,Air Peace,5N-BWC,A320,Abuja-Kano,50,1916.7,1927.7,11.0,0.57,14.85,24507.34,Normal,Within Normal Range
+NG2362,2025-03-16,United Nigeria,5N-BWH,A320,Lagos-Enugu,50,1916.7,1865.2,-51.5,-2.69,-69.48,-114635.16,Normal,Within Normal Range
+NG2363,2025-06-12,United Nigeria,5N-BWC,CRJ900,Abuja-Enugu,45,825.0,827.8,2.8,0.34,3.74,6177.32,Normal,Within Normal Range
+NG2364,2025-04-25,United Nigeria,5N-BWB,CRJ900,Lagos-Port Harcourt,45,825.0,850.5,25.5,3.09,34.44,56831.05,Normal,Within Normal Range
+NG2365,2025-04-03,Overland Airways,5N-BWA,CRJ900,Lagos-Kano,90,1650.0,1696.9,46.9,2.84,63.3,104448.03,Normal,Within Normal Range
+NG2366,2025-06-18,Air Peace,5N-BWD,B737-800,Abuja-Port Harcourt,60,2400.0,2370.0,-30.0,-1.25,-40.47,-66777.88,Normal,Within Normal Range
+NG2367,2025-04-21,Air Peace,5N-BWF,CRJ900,Abuja-Port Harcourt,60,1100.0,1166.2,66.2,6.02,89.35,147430.91,Moderate,Extra APU Usage
+NG2368,2025-04-06,Overland Airways,5N-BWH,A320,Abuja-Port Harcourt,60,2300.0,2377.2,77.2,3.36,104.24,171992.77,Normal,Within Normal Range
+NG2369,2025-01-07,Overland Airways,5N-BWF,A320,Abuja-Port Harcourt,60,2300.0,2252.9,-47.1,-2.05,-63.59,-104930.58,Normal,Within Normal Range
+NG2370,2025-03-21,Air Peace,5N-BWF,A320,Lagos-Abuja,55,2108.3,2178.4,70.1,3.32,94.58,156057.83,Normal,Within Normal Range
+NG2371,2025-01-25,United Nigeria,5N-BWH,Q400,Abuja-Port Harcourt,60,900.0,935.1,35.1,3.9,47.41,78227.38,Normal,Within Normal Range
+NG2372,2025-01-30,Air Peace,5N-BWA,Q400,Abuja-Kano,50,750.0,948.8,198.8,26.51,268.37,442802.81,Severe,Excess Taxi Time
+NG2373,2025-05-22,Ibom Air,5N-BWC,A320,Lagos-Enugu,50,1916.7,2160.1,243.4,12.7,328.63,542233.84,Moderate,Minor ATC Delay
+NG2374,2025-06-13,United Nigeria,5N-BWC,A320,Lagos-Port Harcourt,45,1725.0,1818.3,93.3,5.41,125.92,207767.9,Normal,Extra APU Usage
+NG2375,2025-01-02,Overland Airways,5N-BWG,CRJ900,Lagos-Kano,90,1650.0,1606.9,-43.1,-2.61,-58.12,-95904.64,Normal,Within Normal Range
+NG2376,2025-04-04,Air Peace,5N-BWC,B737-800,Abuja-Enugu,45,1800.0,1851.1,51.1,2.84,69.04,113918.11,Normal,Within Normal Range
+NG2377,2025-06-06,United Nigeria,5N-BWG,Q400,Abuja-Kano,50,750.0,738.8,-11.2,-1.5,-15.18,-25050.17,Normal,Within Normal Range
+NG2378,2025-06-07,United Nigeria,5N-BWE,A320,Abuja-Kano,50,1916.7,2054.2,137.5,7.18,185.66,306344.96,Normal,Ground Delay
+NG2379,2025-02-16,Ibom Air,5N-BWB,Q400,Lagos-Abuja,55,825.0,790.2,-34.8,-4.22,-47.01,-77560.43,Normal,Within Normal Range
+NG2380,2025-04-19,United Nigeria,5N-BWG,A320,Lagos-Kano,90,3450.0,3806.5,356.5,10.33,481.25,794058.64,Moderate,Extra APU Usage
+NG2381,2025-02-05,Ibom Air,5N-BWE,CRJ900,Abuja-Port Harcourt,60,1100.0,1231.4,131.4,11.95,177.44,292770.95,Moderate,Suboptimal Routing
+NG2382,2025-02-04,Dana Air,5N-BWH,B737-800,Abuja-Enugu,45,1800.0,1863.5,63.5,3.53,85.77,141523.42,Moderate,Within Normal Range
+NG2383,2025-06-25,Overland Airways,5N-BWG,CRJ900,Abuja-Port Harcourt,60,1100.0,1115.3,15.3,1.39,20.65,34074.39,Normal,Within Normal Range
+NG2384,2025-05-25,United Nigeria,5N-BWB,A320,Lagos-Kano,90,3450.0,4460.7,1010.7,29.3,1364.51,2251435.59,Severe,Weather Diversion
+NG2385,2025-02-13,Dana Air,5N-BWE,A320,Lagos-Abuja,55,2108.3,2146.8,38.5,1.82,51.94,85698.42,Normal,Within Normal Range
+NG2386,2025-03-10,United Nigeria,5N-BWB,B737-800,Abuja-Enugu,45,1800.0,1879.9,79.9,4.44,107.91,178047.96,Normal,Within Normal Range
+NG2387,2025-05-20,Overland Airways,5N-BWH,B737-800,Abuja-Kano,50,2000.0,2092.5,92.5,4.62,124.81,205937.8,Normal,Within Normal Range
+NG2388,2025-04-26,Ibom Air,5N-BWA,Q400,Lagos-Enugu,50,750.0,802.0,52.0,6.94,70.26,115923.89,Normal,Suboptimal Routing
+NG2389,2025-05-31,Air Peace,5N-BWD,A320,Lagos-Kano,90,3450.0,3559.9,109.9,3.19,148.39,244845.66,Normal,Within Normal Range
+NG2390,2025-02-22,United Nigeria,5N-BWC,A320,Abuja-Port Harcourt,60,2300.0,2341.5,41.5,1.8,55.98,92369.16,Normal,Within Normal Range
+NG2391,2025-03-24,Dana Air,5N-BWC,Q400,Abuja-Port Harcourt,60,900.0,905.9,5.9,0.65,7.93,13088.25,Normal,Within Normal Range
+NG2392,2025-04-16,Dana Air,5N-BWC,B737-800,Abuja-Port Harcourt,60,2400.0,2459.1,59.1,2.46,79.85,131749.63,Normal,Within Normal Range
+NG2393,2025-02-07,Ibom Air,5N-BWD,A320,Abuja-Enugu,45,1725.0,1864.5,139.5,8.09,188.33,310740.16,Normal,Minor ATC Delay
+NG2394,2025-04-07,Ibom Air,5N-BWG,Q400,Lagos-Kano,90,1350.0,1406.2,56.2,4.17,75.92,125270.95,Normal,Within Normal Range
+NG2395,2025-06-27,Air Peace,5N-BWE,CRJ900,Abuja-Enugu,45,825.0,811.9,-13.1,-1.58,-17.63,-29089.02,Normal,Within Normal Range
+NG2396,2025-04-28,Dana Air,5N-BWB,B737-800,Lagos-Kano,90,3600.0,3615.7,15.7,0.44,21.23,35034.5,Normal,Within Normal Range
+NG2397,2025-04-20,Air Peace,5N-BWD,CRJ900,Abuja-Enugu,45,825.0,869.5,44.5,5.39,60.02,99025.16,Normal,Ground Delay
+NG2398,2025-05-25,Dana Air,5N-BWC,Q400,Abuja-Enugu,45,675.0,694.6,19.6,2.9,26.42,43590.93,Normal,Within Normal Range
+NG2399,2025-06-10,Air Peace,5N-BWB,B737-800,Lagos-Enugu,50,2000.0,2069.2,69.2,3.46,93.47,154220.55,Normal,Within Normal Range
+NG2400,2025-01-01,Ibom Air,5N-BWH,CRJ900,Lagos-Abuja,55,1008.3,969.5,-38.8,-3.85,-52.37,-86405.62,Normal,Within Normal Range
+NG2401,2025-03-12,Ibom Air,5N-BWC,Q400,Lagos-Enugu,50,750.0,800.1,50.1,6.69,67.7,111703.9,Moderate,Suboptimal Routing
+NG2402,2025-06-10,Ibom Air,5N-BWG,B737-800,Abuja-Kano,50,2000.0,2052.1,52.1,2.61,70.4,116156.52,Normal,Within Normal Range
+NG2403,2025-01-01,United Nigeria,5N-BWB,B737-800,Lagos-Port Harcourt,45,1800.0,1759.3,-40.7,-2.26,-54.89,-90576.16,Normal,Within Normal Range
+NG2404,2025-01-03,Ibom Air,5N-BWA,CRJ900,Abuja-Port Harcourt,60,1100.0,1126.8,26.8,2.43,36.12,59594.15,Normal,Within Normal Range
+NG2405,2025-01-19,United Nigeria,5N-BWH,A320,Abuja-Enugu,45,1725.0,1711.7,-13.3,-0.77,-17.9,-29542.47,Normal,Within Normal Range
+NG2406,2025-04-05,Air Peace,5N-BWF,B737-800,Abuja-Enugu,45,1800.0,1717.7,-82.3,-4.57,-111.1,-183315.01,Normal,Within Normal Range
+NG2407,2025-05-16,Ibom Air,5N-BWB,A320,Abuja-Enugu,45,1725.0,1751.5,26.5,1.54,35.77,59015.64,Normal,Within Normal Range
+NG2408,2025-06-10,United Nigeria,5N-BWD,Q400,Lagos-Port Harcourt,45,675.0,707.3,32.3,4.79,43.62,71973.59,Normal,Within Normal Range
+NG2409,2025-01-26,United Nigeria,5N-BWB,A320,Abuja-Port Harcourt,60,2300.0,2464.9,164.9,7.17,222.66,367387.35,Moderate,Minor ATC Delay
+NG2410,2025-03-05,United Nigeria,5N-BWC,Q400,Abuja-Kano,50,750.0,749.6,-0.4,-0.05,-0.49,-815.98,Normal,Within Normal Range
+NG2411,2025-06-18,Overland Airways,5N-BWA,Q400,Abuja-Port Harcourt,60,900.0,860.8,-39.2,-4.36,-52.92,-87316.48,Normal,Within Normal Range
+NG2412,2025-03-17,Overland Airways,5N-BWG,A320,Abuja-Port Harcourt,60,2300.0,2310.8,10.8,0.47,14.56,24027.37,Normal,Within Normal Range
+NG2413,2025-01-29,Ibom Air,5N-BWG,CRJ900,Abuja-Enugu,45,825.0,876.9,51.9,6.29,70.01,115519.73,Normal,Suboptimal Routing
+NG2414,2025-02-03,Air Peace,5N-BWF,Q400,Abuja-Port Harcourt,60,900.0,941.4,41.4,4.6,55.87,92177.55,Normal,Within Normal Range
+NG2415,2025-01-19,Dana Air,5N-BWH,A320,Lagos-Kano,90,3450.0,3982.7,532.7,15.44,719.09,1186502.46,Severe,Weather Diversion
+NG2416,2025-05-10,Air Peace,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,1918.4,118.4,6.58,159.87,263781.5,Normal,Minor ATC Delay
+NG2417,2025-03-13,United Nigeria,5N-BWC,B737-800,Lagos-Kano,90,3600.0,3813.7,213.7,5.93,288.43,475912.33,Moderate,Extra APU Usage
+NG2418,2025-05-31,Ibom Air,5N-BWG,Q400,Abuja-Enugu,45,675.0,728.1,53.1,7.87,71.71,118319.37,Normal,Suboptimal Routing
+NG2419,2025-03-04,United Nigeria,5N-BWA,A320,Abuja-Kano,50,1916.7,2098.6,181.9,9.49,245.63,405282.78,Moderate,Minor ATC Delay
+NG2420,2025-06-20,Overland Airways,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2562.9,162.9,6.79,219.97,362948.91,Normal,Suboptimal Routing
+NG2421,2025-05-08,Ibom Air,5N-BWC,B737-800,Lagos-Abuja,55,2200.0,2305.0,105.0,4.77,141.8,233975.0,Normal,Within Normal Range
+NG2422,2025-02-02,Dana Air,5N-BWF,A320,Abuja-Enugu,45,1725.0,1783.3,58.3,3.38,78.75,129932.29,Normal,Within Normal Range
+NG2423,2025-04-20,Air Peace,5N-BWF,B737-800,Lagos-Enugu,50,2000.0,1993.9,-6.1,-0.3,-8.18,-13498.18,Normal,Within Normal Range
+NG2424,2025-04-27,Overland Airways,5N-BWH,B737-800,Lagos-Enugu,50,2000.0,1977.9,-22.1,-1.1,-29.82,-49200.63,Normal,Within Normal Range
+NG2425,2025-02-10,Overland Airways,5N-BWF,A320,Abuja-Enugu,45,1725.0,1744.9,19.9,1.16,26.91,44401.66,Normal,Within Normal Range
+NG2426,2025-01-12,Air Peace,5N-BWA,A320,Abuja-Port Harcourt,60,2300.0,2192.7,-107.3,-4.66,-144.81,-238934.52,Normal,Within Normal Range
+NG2427,2025-02-08,United Nigeria,5N-BWG,Q400,Lagos-Abuja,55,825.0,961.9,136.9,16.6,184.87,305041.56,Moderate,Excess Taxi Time
+NG2428,2025-03-05,United Nigeria,5N-BWF,A320,Abuja-Port Harcourt,60,2300.0,2408.0,108.0,4.7,145.78,240540.61,Normal,Within Normal Range
+NG2429,2025-05-09,Air Peace,5N-BWB,Q400,Abuja-Kano,50,750.0,688.5,-61.5,-8.21,-83.09,-137101.33,Normal,Within Normal Range
+NG2430,2025-01-18,Overland Airways,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,1817.5,17.5,0.97,23.57,38896.62,Normal,Within Normal Range
+NG2431,2025-05-22,Dana Air,5N-BWB,Q400,Abuja-Enugu,45,675.0,625.7,-49.3,-7.3,-66.51,-109748.76,Normal,Within Normal Range
+NG2432,2025-04-29,Overland Airways,5N-BWD,Q400,Abuja-Kano,50,750.0,779.3,29.3,3.91,39.62,65367.55,Normal,Within Normal Range
+NG2433,2025-01-02,Ibom Air,5N-BWC,A320,Abuja-Enugu,45,1725.0,1706.7,-18.3,-1.06,-24.72,-40793.57,Normal,Within Normal Range
+NG2434,2025-01-01,Dana Air,5N-BWF,B737-800,Abuja-Port Harcourt,60,2400.0,2467.9,67.9,2.83,91.6,151137.73,Normal,Within Normal Range
+NG2435,2025-05-16,Dana Air,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,2010.5,10.5,0.53,14.18,23399.44,Normal,Within Normal Range
+NG2436,2025-01-12,Ibom Air,5N-BWB,Q400,Lagos-Abuja,55,825.0,898.6,73.6,8.92,99.3,163849.88,Normal,Minor ATC Delay
+NG2437,2025-05-29,Dana Air,5N-BWB,CRJ900,Lagos-Enugu,50,916.7,937.5,20.8,2.27,28.09,46352.86,Moderate,Within Normal Range
+NG2438,2025-04-22,United Nigeria,5N-BWA,B737-800,Abuja-Enugu,45,1800.0,1688.2,-111.8,-6.21,-150.97,-249101.81,Normal,Within Normal Range
+NG2439,2025-06-29,Dana Air,5N-BWG,Q400,Abuja-Kano,50,750.0,745.7,-4.3,-0.57,-5.75,-9484.81,Normal,Within Normal Range
+NG2440,2025-02-21,Dana Air,5N-BWB,A320,Lagos-Kano,90,3450.0,3904.3,454.3,13.17,613.35,1012023.04,Moderate,Suboptimal Routing
+NG2441,2025-04-30,Air Peace,5N-BWH,A320,Lagos-Port Harcourt,45,1725.0,1688.5,-36.5,-2.11,-49.22,-81218.01,Normal,Within Normal Range
+NG2442,2025-04-29,Ibom Air,5N-BWE,CRJ900,Abuja-Kano,50,916.7,842.1,-74.5,-8.13,-100.61,-166009.51,Normal,Within Normal Range
+NG2443,2025-03-25,Dana Air,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,2014.0,214.0,11.89,288.9,476680.39,Moderate,Ground Delay
+NG2444,2025-03-08,Overland Airways,5N-BWE,B737-800,Lagos-Kano,90,3600.0,3483.4,-116.6,-3.24,-157.45,-259787.13,Normal,Within Normal Range
+NG2445,2025-04-29,United Nigeria,5N-BWB,A320,Lagos-Kano,90,3450.0,3924.5,474.5,13.75,640.56,1056927.83,Moderate,Suboptimal Routing
+NG2446,2025-02-20,Air Peace,5N-BWC,A320,Lagos-Abuja,55,2108.3,2123.3,14.9,0.71,20.16,33260.06,Normal,Within Normal Range
+NG2447,2025-01-06,Air Peace,5N-BWB,Q400,Lagos-Enugu,50,750.0,716.8,-33.2,-4.43,-44.81,-73935.39,Normal,Within Normal Range
+NG2448,2025-03-26,United Nigeria,5N-BWB,A320,Lagos-Enugu,50,1916.7,2171.5,254.9,13.3,344.05,567688.88,Moderate,Suboptimal Routing
+NG2449,2025-05-08,Overland Airways,5N-BWG,CRJ900,Lagos-Port Harcourt,45,825.0,1032.9,207.9,25.2,280.64,463055.74,Severe,Non-Optimal Altitude
+NG2450,2025-03-13,Ibom Air,5N-BWE,A320,Abuja-Kano,50,1916.7,1879.3,-37.3,-1.95,-50.41,-83180.14,Normal,Within Normal Range
+NG2451,2025-05-08,Overland Airways,5N-BWE,A320,Abuja-Port Harcourt,60,2300.0,2372.4,72.4,3.15,97.8,161366.1,Normal,Within Normal Range
+NG2452,2025-02-05,Air Peace,5N-BWG,Q400,Lagos-Abuja,55,825.0,819.0,-6.0,-0.73,-8.09,-13347.98,Normal,Within Normal Range
+NG2453,2025-04-08,Overland Airways,5N-BWA,A320,Abuja-Enugu,45,1725.0,1744.0,19.0,1.1,25.62,42272.21,Normal,Within Normal Range
+NG2454,2025-04-10,United Nigeria,5N-BWF,Q400,Abuja-Port Harcourt,60,900.0,862.2,-37.8,-4.21,-51.1,-84310.09,Normal,Within Normal Range
+NG2455,2025-01-15,Ibom Air,5N-BWE,B737-800,Abuja-Port Harcourt,60,2400.0,2382.9,-17.1,-0.71,-23.11,-38125.61,Normal,Within Normal Range
+NG2456,2025-01-26,Overland Airways,5N-BWC,A320,Abuja-Kano,50,1916.7,1891.6,-25.0,-1.31,-33.77,-55728.74,Normal,Within Normal Range
+NG2457,2025-04-01,Air Peace,5N-BWG,A320,Abuja-Port Harcourt,60,2300.0,2370.0,70.0,3.04,94.45,155843.78,Normal,Within Normal Range
+NG2458,2025-06-28,Ibom Air,5N-BWF,A320,Lagos-Port Harcourt,45,1725.0,1731.6,6.6,0.38,8.95,14773.57,Normal,Within Normal Range
+NG2459,2025-05-07,Dana Air,5N-BWD,A320,Lagos-Enugu,50,1916.7,1835.8,-80.9,-4.22,-109.2,-180187.3,Normal,Within Normal Range
+NG2460,2025-06-04,Air Peace,5N-BWD,B737-800,Lagos-Abuja,55,2200.0,2315.1,115.1,5.23,155.34,256313.01,Normal,Suboptimal Routing
+NG2461,2025-03-29,Overland Airways,5N-BWC,A320,Abuja-Kano,50,1916.7,2001.5,84.9,4.43,114.56,189027.41,Normal,Within Normal Range
+NG2462,2025-02-07,Dana Air,5N-BWA,B737-800,Abuja-Enugu,45,1800.0,1846.6,46.6,2.59,62.9,103785.08,Normal,Within Normal Range
+NG2463,2025-04-06,Air Peace,5N-BWB,Q400,Abuja-Enugu,45,675.0,695.6,20.6,3.06,27.87,45977.95,Normal,Within Normal Range
+NG2464,2025-03-24,Air Peace,5N-BWE,Q400,Abuja-Port Harcourt,60,900.0,956.5,56.5,6.28,76.25,125808.03,Moderate,Minor ATC Delay
+NG2465,2025-05-24,United Nigeria,5N-BWC,Q400,Abuja-Enugu,45,675.0,699.6,24.6,3.65,33.22,54806.24,Normal,Within Normal Range
+NG2466,2025-04-07,Dana Air,5N-BWC,A320,Abuja-Enugu,45,1725.0,1794.1,69.1,4.0,93.23,153826.22,Normal,Within Normal Range
+NG2467,2025-05-26,Ibom Air,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,2320.9,520.9,28.94,703.28,1160411.15,Severe,Non-Optimal Altitude
+NG2468,2025-02-06,Overland Airways,5N-BWH,B737-800,Lagos-Enugu,50,2000.0,1928.6,-71.4,-3.57,-96.42,-159095.82,Normal,Within Normal Range
+NG2469,2025-06-21,Dana Air,5N-BWB,A320,Abuja-Kano,50,1916.7,1970.9,54.3,2.83,73.26,120884.58,Normal,Within Normal Range
+NG2470,2025-03-05,Air Peace,5N-BWD,Q400,Lagos-Kano,90,1350.0,1340.8,-9.2,-0.69,-12.49,-20602.76,Normal,Within Normal Range
+NG2471,2025-04-09,Air Peace,5N-BWA,B737-800,Abuja-Enugu,45,1800.0,1702.8,-97.2,-5.4,-131.16,-216415.85,Normal,Within Normal Range
+NG2472,2025-03-31,United Nigeria,5N-BWG,CRJ900,Lagos-Port Harcourt,45,825.0,766.0,-59.0,-7.15,-79.6,-131346.48,Normal,Within Normal Range
+NG2473,2025-04-26,Overland Airways,5N-BWC,A320,Lagos-Kano,90,3450.0,4608.5,1158.5,33.58,1563.95,2580524.97,Severe,Weather Diversion
+NG2474,2025-01-19,Dana Air,5N-BWB,Q400,Lagos-Abuja,55,825.0,898.3,73.3,8.89,99.0,163348.56,Normal,Extra APU Usage
+NG2475,2025-06-02,Air Peace,5N-BWF,B737-800,Lagos-Enugu,50,2000.0,2071.7,71.7,3.59,96.81,159733.06,Normal,Within Normal Range
+NG2476,2025-06-05,Air Peace,5N-BWC,CRJ900,Lagos-Enugu,50,916.7,916.3,-0.4,-0.04,-0.56,-917.77,Normal,Within Normal Range
+NG2477,2025-04-15,Dana Air,5N-BWD,A320,Lagos-Abuja,55,2108.3,2179.9,71.6,3.4,96.67,159502.96,Normal,Within Normal Range
+NG2478,2025-03-18,Overland Airways,5N-BWE,Q400,Lagos-Enugu,50,750.0,804.4,54.4,7.25,73.4,121111.99,Normal,Minor ATC Delay
+NG2479,2025-04-20,Air Peace,5N-BWA,Q400,Lagos-Port Harcourt,45,675.0,791.2,116.2,17.22,156.91,258908.71,Moderate,ATC Holding Pattern
+NG2480,2025-02-13,Air Peace,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,1880.9,80.9,4.5,109.27,180293.89,Normal,Within Normal Range
+NG2481,2025-05-01,Air Peace,5N-BWG,Q400,Lagos-Kano,90,1350.0,1358.0,8.0,0.59,10.75,17729.46,Normal,Within Normal Range
+NG2482,2025-04-05,Overland Airways,5N-BWC,CRJ900,Lagos-Abuja,55,1008.3,964.5,-43.8,-4.35,-59.16,-97621.63,Normal,Within Normal Range
+NG2483,2025-04-30,Air Peace,5N-BWH,Q400,Lagos-Kano,90,1350.0,1404.8,54.8,4.06,73.96,122039.45,Normal,Within Normal Range
+NG2484,2025-01-22,Air Peace,5N-BWB,A320,Abuja-Port Harcourt,60,2300.0,2347.9,47.9,2.08,64.72,106782.83,Normal,Within Normal Range
+NG2485,2025-04-10,Overland Airways,5N-BWA,A320,Lagos-Kano,90,3450.0,3402.3,-47.7,-1.38,-64.38,-106234.38,Normal,Within Normal Range
+NG2486,2025-03-18,United Nigeria,5N-BWH,A320,Abuja-Port Harcourt,60,2300.0,3033.1,733.1,31.87,989.71,1633028.03,Severe,Excess Taxi Time
+NG2487,2025-04-25,Overland Airways,5N-BWB,A320,Abuja-Port Harcourt,60,2300.0,2596.0,296.0,12.87,399.57,659294.61,Moderate,Extra APU Usage
+NG2488,2025-04-19,Ibom Air,5N-BWA,A320,Abuja-Enugu,45,1725.0,2290.3,565.3,32.77,763.14,1259179.54,Severe,Non-Optimal Altitude
+NG2489,2025-01-18,Ibom Air,5N-BWF,Q400,Abuja-Enugu,45,675.0,767.5,92.5,13.7,124.83,205963.42,Moderate,Ground Delay
+NG2490,2025-06-29,Dana Air,5N-BWA,CRJ900,Abuja-Enugu,45,825.0,834.5,9.5,1.15,12.86,21214.33,Normal,Within Normal Range
+NG2491,2025-02-07,Air Peace,5N-BWC,CRJ900,Lagos-Kano,90,1650.0,1717.4,67.4,4.08,90.95,150070.83,Normal,Within Normal Range
+NG2492,2025-05-18,Air Peace,5N-BWE,B737-800,Lagos-Abuja,55,2200.0,2292.0,92.0,4.18,124.19,204909.6,Normal,Within Normal Range
+NG2493,2025-01-10,United Nigeria,5N-BWH,CRJ900,Abuja-Kano,50,916.7,976.2,59.5,6.49,80.35,132576.21,Moderate,Minor ATC Delay
+NG2494,2025-01-13,United Nigeria,5N-BWD,Q400,Lagos-Abuja,55,825.0,897.6,72.6,8.8,97.98,161672.14,Normal,Ground Delay
+NG2495,2025-03-13,Dana Air,5N-BWE,Q400,Lagos-Abuja,55,825.0,869.8,44.8,5.43,60.52,99852.89,Normal,Suboptimal Routing
+NG2496,2025-04-24,Ibom Air,5N-BWE,A320,Abuja-Enugu,45,1725.0,1674.0,-51.0,-2.96,-68.9,-113679.37,Normal,Within Normal Range
+NG2497,2025-04-24,United Nigeria,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,2063.3,63.3,3.16,85.41,140933.63,Normal,Within Normal Range
+NG2498,2025-05-12,United Nigeria,5N-BWA,Q400,Lagos-Enugu,50,750.0,710.4,-39.6,-5.28,-53.43,-88159.59,Normal,Within Normal Range
+NG2499,2025-05-15,Overland Airways,5N-BWC,CRJ900,Lagos-Enugu,50,916.7,854.0,-62.7,-6.84,-84.66,-139692.6,Normal,Within Normal Range
+NG2500,2025-01-09,Ibom Air,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,1919.9,119.9,6.66,161.83,267020.37,Normal,Extra APU Usage
+NG2501,2025-06-12,Dana Air,5N-BWG,CRJ900,Abuja-Kano,50,916.7,990.7,74.0,8.07,99.91,164850.67,Normal,Extra APU Usage
+NG2502,2025-05-02,United Nigeria,5N-BWC,CRJ900,Abuja-Kano,50,916.7,877.1,-39.6,-4.32,-53.48,-88236.32,Normal,Within Normal Range
+NG2503,2025-01-08,Dana Air,5N-BWE,B737-800,Lagos-Port Harcourt,45,1800.0,1794.8,-5.2,-0.29,-7.03,-11600.19,Normal,Within Normal Range
+NG2504,2025-06-23,Ibom Air,5N-BWD,A320,Abuja-Port Harcourt,60,2300.0,2323.6,23.6,1.02,31.81,52491.22,Normal,Within Normal Range
+NG2505,2025-02-03,Air Peace,5N-BWH,B737-800,Abuja-Port Harcourt,60,2400.0,2421.5,21.5,0.9,29.02,47888.16,Normal,Within Normal Range
+NG2506,2025-06-14,Ibom Air,5N-BWE,Q400,Lagos-Abuja,55,825.0,845.1,20.1,2.44,27.18,44849.43,Normal,Within Normal Range
+NG2507,2025-02-25,Dana Air,5N-BWE,CRJ900,Abuja-Enugu,45,825.0,821.6,-3.4,-0.41,-4.57,-7535.2,Normal,Within Normal Range
+NG2508,2025-01-02,Overland Airways,5N-BWB,CRJ900,Abuja-Enugu,45,825.0,845.3,20.3,2.46,27.37,45163.77,Normal,Within Normal Range
+NG2509,2025-06-25,Dana Air,5N-BWE,Q400,Abuja-Enugu,45,675.0,693.1,18.1,2.68,24.46,40353.83,Moderate,Within Normal Range
+NG2510,2025-06-17,Dana Air,5N-BWE,Q400,Abuja-Kano,50,750.0,787.5,37.5,5.0,50.67,83605.63,Normal,Ground Delay
+NG2511,2025-06-03,Ibom Air,5N-BWA,A320,Lagos-Port Harcourt,45,1725.0,1715.2,-9.8,-0.57,-13.17,-21734.09,Normal,Within Normal Range
+NG2512,2025-03-08,Air Peace,5N-BWE,CRJ900,Lagos-Port Harcourt,45,825.0,820.5,-4.5,-0.55,-6.07,-10019.45,Normal,Within Normal Range
+NG2513,2025-02-26,Air Peace,5N-BWF,A320,Lagos-Enugu,50,1916.7,1918.9,2.3,0.12,3.05,5027.64,Normal,Within Normal Range
+NG2514,2025-06-18,Dana Air,5N-BWC,Q400,Lagos-Kano,90,1350.0,1315.2,-34.8,-2.58,-46.95,-77472.09,Normal,Within Normal Range
+NG2515,2025-05-24,United Nigeria,5N-BWE,A320,Lagos-Abuja,55,2108.3,2107.7,-0.6,-0.03,-0.87,-1439.05,Normal,Within Normal Range
+NG2516,2025-04-01,Dana Air,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,2102.0,102.0,5.1,137.66,227139.13,Normal,Minor ATC Delay
+NG2517,2025-05-30,Dana Air,5N-BWE,Q400,Abuja-Enugu,45,675.0,677.3,2.3,0.33,3.04,5021.28,Normal,Within Normal Range
+NG2518,2025-02-19,Air Peace,5N-BWH,B737-800,Lagos-Kano,90,3600.0,3746.3,146.3,4.06,197.52,325903.98,Normal,Within Normal Range
+NG2519,2025-01-14,Overland Airways,5N-BWG,Q400,Lagos-Kano,90,1350.0,1343.8,-6.2,-0.46,-8.35,-13771.82,Normal,Within Normal Range
+NG2520,2025-02-06,Dana Air,5N-BWH,CRJ900,Lagos-Port Harcourt,45,825.0,802.4,-22.6,-2.74,-30.5,-50318.83,Normal,Within Normal Range
+NG2521,2025-06-11,Air Peace,5N-BWF,CRJ900,Abuja-Enugu,45,825.0,835.6,10.6,1.29,14.32,23624.99,Normal,Within Normal Range
+NG2522,2025-02-23,Air Peace,5N-BWE,CRJ900,Lagos-Abuja,55,1008.3,973.8,-34.5,-3.43,-46.63,-76937.8,Normal,Within Normal Range
+NG2523,2025-02-03,Ibom Air,5N-BWB,CRJ900,Abuja-Enugu,45,825.0,857.5,32.5,3.94,43.83,72318.78,Normal,Within Normal Range
+NG2524,2025-01-02,United Nigeria,5N-BWG,CRJ900,Lagos-Kano,90,1650.0,1942.7,292.7,17.74,395.14,651986.37,Severe,Weather Diversion
+NG2525,2025-06-23,Dana Air,5N-BWA,A320,Lagos-Abuja,55,2108.3,2658.1,549.8,26.08,742.2,1224637.14,Severe,Non-Optimal Altitude
+NG2526,2025-01-27,Dana Air,5N-BWC,Q400,Lagos-Enugu,50,750.0,723.8,-26.2,-3.5,-35.43,-58451.33,Normal,Within Normal Range
+NG2527,2025-03-16,Air Peace,5N-BWE,B737-800,Lagos-Port Harcourt,45,1800.0,1823.1,23.1,1.28,31.17,51422.63,Normal,Within Normal Range
+NG2528,2025-03-29,Dana Air,5N-BWC,CRJ900,Abuja-Port Harcourt,60,1100.0,1117.1,17.1,1.56,23.15,38197.69,Normal,Within Normal Range
+NG2529,2025-01-05,Ibom Air,5N-BWG,A320,Abuja-Enugu,45,1725.0,1735.6,10.6,0.62,14.33,23651.6,Normal,Within Normal Range
+NG2530,2025-02-01,Ibom Air,5N-BWC,B737-800,Lagos-Port Harcourt,45,1800.0,1868.4,68.4,3.8,92.36,152393.24,Normal,Within Normal Range
+NG2531,2025-06-02,United Nigeria,5N-BWA,Q400,Lagos-Abuja,55,825.0,804.1,-20.9,-2.54,-28.26,-46635.98,Normal,Within Normal Range
+NG2532,2025-04-17,Air Peace,5N-BWB,B737-800,Lagos-Enugu,50,2000.0,1956.8,-43.2,-2.16,-58.32,-96224.39,Normal,Within Normal Range
+NG2533,2025-06-27,United Nigeria,5N-BWD,A320,Abuja-Kano,50,1916.7,1809.7,-106.9,-5.58,-144.36,-238199.9,Normal,Within Normal Range
+NG2534,2025-04-18,Air Peace,5N-BWC,Q400,Lagos-Kano,90,1350.0,1305.2,-44.8,-3.32,-60.5,-99821.69,Normal,Within Normal Range
+NG2535,2025-01-30,Overland Airways,5N-BWE,B737-800,Lagos-Enugu,50,2000.0,2021.8,21.8,1.09,29.39,48495.33,Normal,Within Normal Range
+NG2536,2025-04-02,Ibom Air,5N-BWD,Q400,Abuja-Port Harcourt,60,900.0,873.6,-26.4,-2.93,-35.62,-58771.77,Normal,Within Normal Range
+NG2537,2025-06-26,Overland Airways,5N-BWD,CRJ900,Lagos-Abuja,55,1008.3,994.4,-14.0,-1.38,-18.85,-31105.5,Normal,Within Normal Range
+NG2538,2025-05-27,Air Peace,5N-BWB,B737-800,Lagos-Abuja,55,2200.0,2205.5,5.5,0.25,7.47,12323.88,Normal,Within Normal Range
+NG2539,2025-03-07,Overland Airways,5N-BWB,B737-800,Lagos-Abuja,55,2200.0,2188.4,-11.6,-0.53,-15.62,-25776.44,Normal,Within Normal Range
+NG2540,2025-01-26,Dana Air,5N-BWA,CRJ900,Abuja-Kano,50,916.7,975.8,59.2,6.45,79.88,131795.21,Normal,Ground Delay
+NG2541,2025-01-25,Dana Air,5N-BWB,CRJ900,Abuja-Kano,50,916.7,924.0,7.3,0.79,9.84,16229.56,Normal,Within Normal Range
+NG2542,2025-04-02,Ibom Air,5N-BWF,A320,Lagos-Abuja,55,2108.3,2228.4,120.1,5.7,162.13,267508.23,Normal,Ground Delay
+NG2543,2025-02-16,Air Peace,5N-BWF,Q400,Lagos-Enugu,50,750.0,852.1,102.1,13.62,137.86,227464.31,Moderate,Minor ATC Delay
+NG2544,2025-06-16,United Nigeria,5N-BWG,CRJ900,Abuja-Kano,50,916.7,834.7,-82.0,-8.95,-110.71,-182663.82,Normal,Within Normal Range
+NG2545,2025-04-17,Air Peace,5N-BWB,A320,Lagos-Port Harcourt,45,1725.0,1706.4,-18.6,-1.08,-25.12,-41454.82,Normal,Within Normal Range
+NG2546,2025-04-02,United Nigeria,5N-BWG,A320,Abuja-Port Harcourt,60,2300.0,2414.0,114.0,4.95,153.83,253825.79,Normal,Within Normal Range
+NG2547,2025-01-29,Ibom Air,5N-BWH,CRJ900,Abuja-Enugu,45,825.0,823.9,-1.1,-0.14,-1.55,-2554.55,Normal,Within Normal Range
+NG2548,2025-06-30,Dana Air,5N-BWA,Q400,Lagos-Abuja,55,825.0,843.8,18.8,2.28,25.37,41866.94,Normal,Within Normal Range
+NG2549,2025-05-13,Overland Airways,5N-BWF,A320,Lagos-Enugu,50,1916.7,1941.2,24.6,1.28,33.15,54696.08,Normal,Within Normal Range
+NG2550,2025-03-30,United Nigeria,5N-BWH,A320,Lagos-Abuja,55,2108.3,2156.9,48.6,2.3,65.57,108190.39,Normal,Within Normal Range
+NG2551,2025-06-14,Overland Airways,5N-BWA,B737-800,Lagos-Port Harcourt,45,1800.0,1811.8,11.8,0.66,15.92,26276.16,Normal,Within Normal Range
+NG2552,2025-05-06,United Nigeria,5N-BWB,A320,Lagos-Kano,90,3450.0,3486.9,36.9,1.07,49.78,82136.44,Normal,Within Normal Range
+NG2553,2025-04-14,Air Peace,5N-BWG,A320,Abuja-Kano,50,1916.7,1881.9,-34.7,-1.81,-46.88,-77354.32,Normal,Within Normal Range
+NG2554,2025-05-08,Overland Airways,5N-BWB,CRJ900,Lagos-Kano,90,1650.0,1625.3,-24.7,-1.5,-33.37,-55053.61,Normal,Within Normal Range
+NG2555,2025-04-16,Air Peace,5N-BWG,B737-800,Lagos-Kano,90,3600.0,4516.8,916.8,25.47,1237.7,2042209.12,Severe,Excess Taxi Time
+NG2556,2025-06-17,Overland Airways,5N-BWD,Q400,Abuja-Enugu,45,675.0,694.4,19.4,2.87,26.14,43139.16,Normal,Within Normal Range
+NG2557,2025-03-26,Air Peace,5N-BWH,A320,Abuja-Kano,50,1916.7,1936.0,19.4,1.01,26.14,43129.1,Normal,Within Normal Range
+NG2558,2025-01-25,Dana Air,5N-BWB,CRJ900,Lagos-Kano,90,1650.0,1640.4,-9.6,-0.58,-12.93,-21337.61,Normal,Within Normal Range
+NG2559,2025-06-29,Dana Air,5N-BWF,Q400,Abuja-Kano,50,750.0,844.7,94.7,12.62,127.79,210859.95,Moderate,Minor ATC Delay
+NG2560,2025-06-06,United Nigeria,5N-BWE,B737-800,Lagos-Port Harcourt,45,1800.0,1924.8,124.8,6.93,168.45,277934.34,Moderate,Minor ATC Delay
+NG2561,2025-01-28,United Nigeria,5N-BWF,A320,Lagos-Port Harcourt,45,1725.0,1766.8,41.8,2.43,56.48,93184.98,Normal,Within Normal Range
+NG2562,2025-04-28,Overland Airways,5N-BWH,B737-800,Lagos-Enugu,50,2000.0,2132.2,132.2,6.61,178.46,294455.59,Normal,Extra APU Usage
+NG2563,2025-05-30,Air Peace,5N-BWG,B737-800,Lagos-Kano,90,3600.0,3623.7,23.7,0.66,32.03,52855.94,Normal,Within Normal Range
+NG2564,2025-01-27,Overland Airways,5N-BWC,A320,Lagos-Port Harcourt,45,1725.0,1806.6,81.6,4.73,110.13,181711.29,Normal,Within Normal Range
+NG2565,2025-06-05,Overland Airways,5N-BWG,CRJ900,Abuja-Kano,50,916.7,934.1,17.4,1.9,23.48,38734.98,Normal,Within Normal Range
+NG2566,2025-04-26,United Nigeria,5N-BWE,Q400,Abuja-Kano,50,750.0,686.9,-63.1,-8.42,-85.22,-140609.13,Normal,Within Normal Range
+NG2567,2025-05-22,Overland Airways,5N-BWF,Q400,Abuja-Port Harcourt,60,900.0,863.3,-36.7,-4.08,-49.59,-81816.2,Normal,Within Normal Range
+NG2568,2025-06-16,Dana Air,5N-BWC,Q400,Abuja-Port Harcourt,60,900.0,840.9,-59.1,-6.57,-79.78,-131637.44,Normal,Within Normal Range
+NG2569,2025-05-24,Dana Air,5N-BWF,B737-800,Abuja-Port Harcourt,60,2400.0,2421.7,21.7,0.91,29.35,48435.71,Normal,Within Normal Range
+NG2570,2025-01-04,United Nigeria,5N-BWG,Q400,Lagos-Enugu,50,750.0,729.5,-20.5,-2.74,-27.73,-45756.48,Normal,Within Normal Range
+NG2571,2025-03-10,Air Peace,5N-BWD,B737-800,Lagos-Port Harcourt,45,1800.0,1844.6,44.6,2.48,60.23,99378.52,Normal,Within Normal Range
+NG2572,2025-06-26,Dana Air,5N-BWA,A320,Abuja-Kano,50,1916.7,1904.2,-12.5,-0.65,-16.86,-27819.05,Normal,Within Normal Range
+NG2573,2025-01-27,Air Peace,5N-BWH,Q400,Abuja-Port Harcourt,60,900.0,916.4,16.4,1.82,22.11,36485.25,Normal,Within Normal Range
+NG2574,2025-05-11,Ibom Air,5N-BWD,CRJ900,Abuja-Port Harcourt,60,1100.0,1159.7,59.7,5.43,80.58,132960.07,Normal,Ground Delay
+NG2575,2025-04-17,Air Peace,5N-BWG,CRJ900,Lagos-Enugu,50,916.7,901.0,-15.6,-1.71,-21.11,-34838.81,Normal,Within Normal Range
+NG2576,2025-03-06,Overland Airways,5N-BWA,B737-800,Abuja-Kano,50,2000.0,2089.6,89.6,4.48,120.99,199625.54,Normal,Within Normal Range
+NG2577,2025-05-31,United Nigeria,5N-BWF,A320,Abuja-Enugu,45,1725.0,1788.9,63.9,3.7,86.26,142323.31,Normal,Within Normal Range
+NG2578,2025-02-15,Ibom Air,5N-BWH,Q400,Abuja-Enugu,45,675.0,623.3,-51.7,-7.66,-69.81,-115194.59,Normal,Within Normal Range
+NG2579,2025-01-11,Overland Airways,5N-BWG,B737-800,Lagos-Port Harcourt,45,1800.0,1877.6,77.6,4.31,104.79,172896.62,Normal,Within Normal Range
+NG2580,2025-03-26,Ibom Air,5N-BWA,Q400,Lagos-Port Harcourt,45,675.0,713.5,38.5,5.7,51.97,85755.66,Normal,Suboptimal Routing
+NG2581,2025-05-06,Dana Air,5N-BWE,B737-800,Lagos-Port Harcourt,45,1800.0,1806.5,6.5,0.36,8.82,14556.96,Normal,Within Normal Range
+NG2582,2025-05-14,Dana Air,5N-BWC,A320,Lagos-Abuja,55,2108.3,2664.2,555.8,26.36,750.37,1238106.17,Severe,ATC Holding Pattern
+NG2583,2025-03-31,Overland Airways,5N-BWB,CRJ900,Abuja-Port Harcourt,60,1100.0,1147.1,47.1,4.28,63.56,104879.26,Normal,Within Normal Range
+NG2584,2025-02-25,Dana Air,5N-BWE,Q400,Abuja-Kano,50,750.0,769.0,19.0,2.53,25.6,42237.02,Normal,Within Normal Range
+NG2585,2025-06-21,Overland Airways,5N-BWB,B737-800,Lagos-Kano,90,3600.0,3572.4,-27.6,-0.77,-37.27,-61501.02,Normal,Within Normal Range
+NG2586,2025-06-24,Overland Airways,5N-BWA,A320,Lagos-Enugu,50,1916.7,1898.4,-18.3,-0.96,-24.73,-40798.94,Normal,Within Normal Range
+NG2587,2025-05-19,Air Peace,5N-BWE,CRJ900,Abuja-Enugu,45,825.0,778.9,-46.1,-5.58,-62.19,-102610.28,Normal,Within Normal Range
+NG2588,2025-01-12,Dana Air,5N-BWH,CRJ900,Abuja-Port Harcourt,60,1100.0,1146.8,46.8,4.25,63.12,104143.53,Normal,Within Normal Range
+NG2589,2025-02-12,Overland Airways,5N-BWB,B737-800,Abuja-Kano,50,2000.0,2025.2,25.2,1.26,34.03,56149.02,Normal,Within Normal Range
+NG2590,2025-06-21,Air Peace,5N-BWD,B737-800,Abuja-Port Harcourt,60,2400.0,2372.2,-27.8,-1.16,-37.6,-62035.64,Normal,Within Normal Range
+NG2591,2025-05-18,United Nigeria,5N-BWD,B737-800,Lagos-Enugu,50,2000.0,2059.1,59.1,2.95,79.77,131617.12,Normal,Within Normal Range
+NG2592,2025-01-07,United Nigeria,5N-BWC,B737-800,Lagos-Enugu,50,2000.0,2014.6,14.6,0.73,19.75,32585.1,Normal,Within Normal Range
+NG2593,2025-03-06,Air Peace,5N-BWC,B737-800,Lagos-Abuja,55,2200.0,2250.2,50.2,2.28,67.78,111838.67,Normal,Within Normal Range
+NG2594,2025-04-26,Dana Air,5N-BWG,CRJ900,Lagos-Port Harcourt,45,825.0,856.8,31.8,3.86,42.99,70930.8,Normal,Within Normal Range
+NG2595,2025-06-14,United Nigeria,5N-BWA,B737-800,Lagos-Abuja,55,2200.0,2122.2,-77.8,-3.54,-105.06,-173346.1,Normal,Within Normal Range
+NG2596,2025-04-02,Overland Airways,5N-BWB,B737-800,Lagos-Enugu,50,2000.0,1944.8,-55.2,-2.76,-74.47,-122874.88,Normal,Within Normal Range
+NG2597,2025-04-23,Dana Air,5N-BWE,B737-800,Abuja-Enugu,45,1800.0,1820.3,20.3,1.13,27.46,45310.14,Normal,Within Normal Range
+NG2598,2025-02-04,United Nigeria,5N-BWD,A320,Lagos-Abuja,55,2108.3,2160.8,52.5,2.49,70.85,116895.41,Normal,Within Normal Range
+NG2599,2025-03-18,Overland Airways,5N-BWC,Q400,Abuja-Enugu,45,675.0,713.2,38.2,5.65,51.53,85024.42,Normal,Ground Delay
